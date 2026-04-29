@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 <head>
   <script>
-    // Apply saved theme before paint to avoid flash
     (function() {
-      var t = localStorage.getItem('theme') || 'dark';
+      var t = localStorage.getItem('theme') || 'light';
       document.documentElement.setAttribute('data-theme', t);
     })();
   </script>
@@ -80,13 +79,12 @@
       var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       html.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);
-      this.textContent = next === 'dark' ? '[LITE]' : '[DARK]';
+      this.textContent = next === 'dark' ? 'Day' : 'Night';
     });
-    // Set initial label
     (function() {
       var t = document.documentElement.getAttribute('data-theme');
       var btn = document.getElementById('theme-toggle');
-      if (btn) btn.textContent = t === 'dark' ? '[LITE]' : '[DARK]';
+      if (btn) btn.textContent = t === 'dark' ? 'Day' : 'Night';
     })();
   </script>
 </body>
