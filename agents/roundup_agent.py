@@ -9,6 +9,7 @@ from pathlib import Path
 
 import httpx
 
+from config import BLOG_URL, BLOG_NAME, BOT_USER_AGENT
 from model_selector import build_candidate_list
 
 OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
@@ -16,10 +17,10 @@ TOPIC_FILE = Path("/tmp/roundup_topic.json")
 RESEARCH_FILE = Path("/tmp/roundup_research.json")
 SEEN_FILE = Path(__file__).parent / "seen.json"
 
-HEADERS = {"User-Agent": "tenkai-bot/1.0 (github.com/mcfredrick/tenkai)"}
+HEADERS = {"User-Agent": BOT_USER_AGENT}
 TIMEOUT = 20
 
-SYSTEM_PROMPT = """You are a research assistant for Tenkai, a weekly AI/dev tools digest for senior engineers.
+SYSTEM_PROMPT = """You are a research assistant for Terra, a weekly climate tech digest for engineers pivoting into the space.
 
 Given a topic and a list of candidate items found across GitHub and HN, select 4-6 items that best address the topic.
 
@@ -120,8 +121,8 @@ def call_llm(content: str, preferred_model: str) -> list[dict] | None:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Roundup Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Roundup Agent",
     }
     for candidate in build_candidate_list(preferred_model, api_key):
         print(f"  Trying: {candidate}", file=sys.stderr)

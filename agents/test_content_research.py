@@ -26,7 +26,8 @@ sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
 from model_selector import build_candidate_list
 
 OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
-HEADERS = {"User-Agent": "tenkai-bot/1.0 (github.com/mcfredrick/tenkai)"}
+from config import BOT_USER_AGENT
+HEADERS = {"User-Agent": BOT_USER_AGENT}
 TIMEOUT = 20
 CONTENT_CHARS = 600  # chars of content to include per candidate
 
@@ -97,7 +98,7 @@ SEEDED_CANDIDATES = [
 
 ALL_CANDIDATES = EXISTING_CANDIDATES + SEEDED_CANDIDATES
 
-SYSTEM_PROMPT = """You are a research assistant for Tenkai, a weekly AI/dev tools digest for senior engineers.
+SYSTEM_PROMPT = """You are a research assistant for Terra, a weekly climate tech digest for engineers pivoting into the space.
 
 Given a topic and candidate items, select 4-6 items that BEST address the topic.
 
@@ -194,8 +195,8 @@ def call_llm(prompt: str, label: str) -> list[dict] | None:
     preferred = "meta-llama/llama-3.3-70b-instruct:free"
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Research Test",
+        "HTTP-Referer": "https://terra.mcfredrick.dev/",
+        "X-Title": "Terra Research Test",
     }
     print(f"\n[{label}] Calling LLM...", file=sys.stderr)
     for model in build_candidate_list(preferred, api_key):

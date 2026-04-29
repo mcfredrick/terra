@@ -9,7 +9,7 @@ from validate_post import validate
 
 FRONT_MATTER = """\
 ---
-title: "Tenkai Daily — March 20, 2026"
+title: "Terra Daily — March 20, 2026"
 date: 2026-03-20
 draft: false
 tags: [llm, releases]

@@ -3,19 +3,21 @@
 import os
 import re
 import sys
+from datetime import datetime, timezone, timedelta
 from typing import Any
 
 import feedparser
 import httpx
 
-HEADERS = {"User-Agent": "tenkai-bot/1.0 (github.com/mattdlong/tenkai)"}
+from config import BOT_USER_AGENT
+
+HEADERS = {"User-Agent": BOT_USER_AGENT}
 TIMEOUT = 20
 
-AI_KEYWORDS = re.compile(
-    r"\b(llm|gpt|bert|transformer|diffusion|embedding|rag|vector|"
-    r"langchain|llamaindex|ollama|hugging.?face|openai|anthropic|"
-    r"pytorch|tensorflow|jax|triton|vllm|inference|fine.?tun|"
-    r"tokeniz|neural|generative|foundation.model|ai|ml|nlp)\b",
+CLIMATE_KEYWORDS = re.compile(
+    r"\b(solar|wind|carbon|climate|energy|battery|grid|renewable|sustainable|"
+    r"agriculture|water|biodiversity|ocean|emissions|decarboniz|electr|"
+    r"hydrogen|geotherm|biomass|conservation|ecosystem)\b",
     re.IGNORECASE,
 )
 
@@ -32,13 +34,6 @@ def _get(url: str, **kwargs) -> httpx.Response | None:
 
 
 def _quality_score(repo: dict) -> float:
-    """Compute a 0–1 quality score for a GitHub search result.
-
-    Uses signals available in the search API response with no extra requests.
-    Higher = more likely to be a quality, actively-maintained project.
-    """
-    from datetime import datetime, timezone
-
     now = datetime.now(timezone.utc)
     stars = repo.get("stargazers_count", 0)
     forks = repo.get("forks_count", 0)
@@ -50,7 +45,6 @@ def _quality_score(repo: dict) -> float:
 
     score = 0.0
 
-    # Star velocity (up to 0.30)
     velocity = stars / age_days
     if velocity >= 10:
         score += 0.30
@@ -59,7 +53,6 @@ def _quality_score(repo: dict) -> float:
     elif velocity >= 1:
         score += 0.10
 
-    # Fork ratio (up to 0.20)
     if stars > 0:
         ratio = forks / stars
         if ratio >= 0.15:
@@ -67,49 +60,61 @@ def _quality_score(repo: dict) -> float:
         elif ratio >= 0.05:
             score += 0.10
 
-    # Pushed recently (0.15)
     if pushed_days_ago <= 14:
         score += 0.15
 
-    # Has description (0.10)
     if repo.get("description"):
         score += 0.10
 
-    # Has topics (0.10)
     if repo.get("topics"):
         score += 0.10
 
-    # Has license (0.05)
     if repo.get("license"):
         score += 0.05
 
-    # Minimum star threshold — at least some real users (0.10)
     if stars >= 20:
         score += 0.10
 
     return min(score, 1.0)
 
 
-def github_search_tools(since_days: int = 30, score_threshold: float = 0.5) -> list[dict]:
-    """Search GitHub for early-trending AI coding tools and community projects.
+def arxiv_climate() -> list[dict]:
+    """Fetch recent papers from ArXiv categories relevant to climate engineering."""
+    results = []
+    for category in ("eess.SY", "physics.ao-ph", "econ.GN", "cond-mat.mtrl-sci"):
+        feed = feedparser.parse(f"https://arxiv.org/rss/{category}")
+        for entry in feed.entries[:15]:
+            results.append({
+                "title": entry.get("title", ""),
+                "url": entry.get("link", ""),
+                "text": entry.get("summary", ""),
+            })
+    return results
 
-    Runs 4 targeted queries against the GitHub search API (unauthenticated).
-    Pre-filters by composite quality score before returning to keep LLM payload lean.
-    """
-    from datetime import datetime, timezone, timedelta
 
+def arxiv_sustainability() -> list[dict]:
+    """Fetch recent papers from ArXiv quantitative biology and systems & control."""
+    results = []
+    for category in ("q-bio.QM", "cs.SY"):
+        feed = feedparser.parse(f"https://arxiv.org/rss/{category}")
+        for entry in feed.entries[:15]:
+            results.append({
+                "title": entry.get("title", ""),
+                "url": entry.get("link", ""),
+                "text": entry.get("summary", ""),
+            })
+    return results
+
+
+def github_climate_tools(since_days: int = 30, score_threshold: float = 0.3) -> list[dict]:
+    """Search GitHub for climate/energy/sustainability tools and projects."""
     now = datetime.now(timezone.utc)
     since_date = (now - timedelta(days=since_days)).strftime("%Y-%m-%d")
-    since_14d = (now - timedelta(days=14)).strftime("%Y-%m-%d")
 
-    queries = [
-        # Split multi-topic OR queries — GitHub API rejects topic:X OR topic:Y with date filters
-        f"topic:claude-code pushed:>{since_date}",
-        f"topic:mcp-server pushed:>{since_date}",
-        f"topic:llm-agent pushed:>{since_date}",
-        f"stars:10..500 created:>{since_date} claude OR llm OR mcp OR \"ai agent\" OR \"coding assistant\" in:name,description",
-        "opencode OR nanoclaw OR openclaw OR \"codex cli\" OR \"pi editor\" OR \"coding assistant\" in:name stars:5..500",
-        f"\"coding assistant\" OR \"agentic coding\" in:description stars:20..1000 pushed:>{since_14d}",
+    topics = [
+        "solar-energy", "wind-energy", "carbon-footprint", "climate-model",
+        "energy-storage", "smart-grid", "renewable-energy", "electric-vehicle",
+        "battery", "carbon-accounting",
     ]
 
     gh_token = os.environ.get("GH_TOKEN", "")
@@ -118,37 +123,101 @@ def github_search_tools(since_days: int = 30, score_threshold: float = 0.5) -> l
     seen_urls: set[str] = set()
     results = []
 
-    for query in queries:
+    for topic in topics:
         r = _get(
             "https://api.github.com/search/repositories",
-            params={"q": query, "sort": "stars", "order": "desc", "per_page": 30},
+            params={
+                "q": f"topic:{topic} pushed:>{since_date} stars:>=10",
+                "sort": "stars", "order": "desc", "per_page": 10,
+            },
             headers=gh_headers,
         )
         if not r:
             continue
-
         for repo in r.json().get("items", []):
             url = repo.get("html_url", "")
             if not url or url in seen_urls:
                 continue
             seen_urls.add(url)
-
             if _quality_score(repo) < score_threshold:
                 continue
-
             desc = repo.get("description") or ""
-            topics = " ".join(repo.get("topics", []))
+            topics_list = " ".join(repo.get("topics", []))
             results.append({
                 "title": repo.get("full_name", ""),
                 "url": url,
-                "text": f"Stars: {repo['stargazers_count']}, Forks: {repo['forks_count']}. {desc}. Topics: {topics}",
+                "text": f"Stars: {repo['stargazers_count']}, Forks: {repo['forks_count']}. {desc}. Topics: {topics_list}",
             })
 
     return results
 
 
-def github_trending() -> list[dict]:
-    """Scrape all-languages GitHub trending repos, pre-filtered by AI keywords."""
+def hacker_news_climate() -> list[dict]:
+    """Fetch HN stories about climate tech and clean energy."""
+    queries = [
+        "climate tech", "clean energy", "carbon capture",
+        "decarbonization", "net zero", "renewable energy",
+        "electric grid", "battery storage",
+    ]
+    seen: set[str] = set()
+    results = []
+    for query in queries:
+        r = _get(
+            "https://hn.algolia.com/api/v1/search",
+            params={
+                "tags": "story",
+                "query": query,
+                "numericFilters": "points>10",
+                "hitsPerPage": 10,
+            },
+        )
+        if not r:
+            continue
+        for hit in r.json().get("hits", []):
+            url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
+            if url in seen:
+                continue
+            seen.add(url)
+            results.append({
+                "title": hit.get("title", ""),
+                "url": url,
+                "text": f"Points: {hit.get('points', 0)}, Comments: {hit.get('num_comments', 0)}",
+            })
+    return results
+
+
+def hacker_news_climate_ask() -> list[dict]:
+    """Fetch HN Ask HN threads about climate and sustainability."""
+    queries = ["climate", "clean energy", "sustainability", "carbon"]
+    seen: set[str] = set()
+    results = []
+    for query in queries:
+        r = _get(
+            "https://hn.algolia.com/api/v1/search",
+            params={
+                "tags": "ask_hn",
+                "query": query,
+                "numericFilters": "points>3",
+                "hitsPerPage": 10,
+            },
+        )
+        if not r:
+            continue
+        for hit in r.json().get("hits", []):
+            title = hit.get("title", "")
+            if not title or title in seen:
+                continue
+            seen.add(title)
+            results.append({
+                "title": title,
+                "url": f"https://news.ycombinator.com/item?id={hit.get('objectID')}",
+                "text": f"Points: {hit.get('points', 0)}, Comments: {hit.get('num_comments', 0)}",
+            })
+    return results
+
+
+def github_trending_climate() -> list[dict]:
+    """Scrape GitHub trending repos filtered by climate/energy/sustainability keywords."""
     from bs4 import BeautifulSoup
 
     r = _get("https://github.com/trending?since=daily")
@@ -166,7 +235,7 @@ def github_trending() -> list[dict]:
             url = f"https://github.com/{repo_path}"
             desc_tag = article.select_one("p")
             desc = desc_tag.get_text(strip=True) if desc_tag else ""
-            if not AI_KEYWORDS.search(repo_path) and not AI_KEYWORDS.search(desc):
+            if not CLIMATE_KEYWORDS.search(repo_path) and not CLIMATE_KEYWORDS.search(desc):
                 continue
             results.append({"title": repo_path, "url": url, "text": desc})
         except Exception:
@@ -174,174 +243,53 @@ def github_trending() -> list[dict]:
     return results
 
 
-def huggingface_new_models() -> list[dict]:
-    """Fetch trending HuggingFace models by likes."""
-    r = _get(
-        "https://huggingface.co/api/models",
-        params={"sort": "likes7d", "direction": -1, "limit": 20},
-    )
-    if not r:
-        return []
-
+def iea_news() -> list[dict]:
+    """Fetch IEA news RSS feed."""
+    feed = feedparser.parse("https://www.iea.org/feed/news")
     results = []
-    for model in r.json():
-        model_id = model.get("id", "")
-        url = f"https://huggingface.co/{model_id}"
-        tags = " ".join(model.get("tags", []))
-        results.append({"title": model_id, "url": url, "text": tags})
-    return results
-
-
-def papers_with_code() -> list[dict]:
-    """Fetch recent LLM papers from Papers With Code."""
-    r = _get(
-        "https://paperswithcode.com/api/v1/papers/",
-        params={"ordering": "-published", "q": "llm", "items_per_page": 20},
-    )
-    if not r:
-        return []
-
-    results = []
-    for paper in r.json().get("results", []):
+    for entry in feed.entries[:10]:
         results.append({
-            "title": paper.get("title", ""),
-            "url": paper.get("url_pdf") or paper.get("url_abs", ""),
-            "text": paper.get("abstract", ""),
+            "title": entry.get("title", ""),
+            "url": entry.get("link", ""),
+            "text": entry.get("summary", ""),
         })
     return results
 
 
-def arxiv_feeds() -> list[dict]:
-    """Fetch recent papers from ArXiv cs.AI, cs.LG, cs.CL."""
+def nrel_news() -> list[dict]:
+    """Fetch NREL news RSS feed."""
+    feed = feedparser.parse("https://www.nrel.gov/news/rss.xml")
     results = []
-    for category in ("cs.AI", "cs.LG", "cs.CL"):
-        feed = feedparser.parse(f"https://arxiv.org/rss/{category}")
-        for entry in feed.entries[:15]:
-            results.append({
-                "title": entry.get("title", ""),
-                "url": entry.get("link", ""),
-                "text": entry.get("summary", ""),
-            })
-    return results
-
-
-
-def pypi_updates() -> list[dict]:
-    """Fetch recent PyPI package updates filtered by AI keywords."""
-    feed = feedparser.parse("https://pypi.org/rss/updates.xml")
-    results = []
-    for entry in feed.entries[:50]:
-        title = entry.get("title", "")
-        summary = entry.get("summary", "")
-        if AI_KEYWORDS.search(title) or AI_KEYWORDS.search(summary):
-            results.append({
-                "title": title,
-                "url": entry.get("link", ""),
-                "text": summary,
-            })
-    return results
-
-
-def _hn_search(query: str, min_points: int = 30, limit: int = 15) -> list[dict]:
-    r = _get(
-        "https://hn.algolia.com/api/v1/search",
-        params={
-            "tags": "story",
-            "query": query,
-            "numericFilters": f"points>{min_points}",
-            "hitsPerPage": limit,
-        },
-    )
-    if not r:
-        return []
-    return [
-        {
-            "title": hit.get("title", ""),
-            "url": hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}",
-            "text": f"Points: {hit.get('points', 0)}, Comments: {hit.get('num_comments', 0)}",
-        }
-        for hit in r.json().get("hits", [])
-    ]
-
-
-def hacker_news_devtools() -> list[dict]:
-    """Fetch HN threads about agentic coding assistants and AI dev tools."""
-    return _hn_search("claude code cursor windsurf opencode codex pi nanoclaw openclaw aider goose")
-
-
-def hacker_news_mcp() -> list[dict]:
-    """Fetch HN threads about MCP and the model context protocol ecosystem."""
-    return _hn_search("MCP model context protocol")
-
-
-def smithery_trending() -> list[dict]:
-    """Fetch recently added MCP servers with meaningful install counts."""
-    from datetime import datetime, timezone, timedelta
-
-    cutoff = datetime.now(timezone.utc) - timedelta(days=60)
-    r = _get("https://registry.smithery.ai/servers", params={"pageSize": 100})
-    if not r:
-        return []
-
-    results = []
-    for server in r.json().get("servers", []):
-        created_at = server.get("createdAt", "")
-        if created_at:
-            try:
-                created = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
-                if created < cutoff:
-                    continue
-            except ValueError:
-                pass
-        use_count = server.get("useCount", 0)
-        if use_count < 100:
-            continue
-        name = server.get("displayName") or server.get("qualifiedName", "")
-        url = server.get("homepage") or f"https://smithery.ai/server/{server.get('qualifiedName', '')}"
+    for entry in feed.entries[:10]:
         results.append({
-            "title": name,
-            "url": url,
-            "text": f"Installs: {use_count:,}. {server.get('description', '')}",
+            "title": entry.get("title", ""),
+            "url": entry.get("link", ""),
+            "text": entry.get("summary", ""),
         })
-    return results[:10]
+    return results
 
 
-def github_ai_tool_releases() -> list[dict]:
-    """Fetch recent releases from key AI dev tool repos via GitHub Atom feeds."""
-    repos = [
-        "anthropics/claude-code",
-        "block/goose",
-        "modelcontextprotocol/servers",
-        "continuedev/continue",
-        "paul-gauthier/aider",
-        # Agentic coding ecosystem additions
-        "sst/opencode",
-        "sigoden/aichat",
-        "plandex-ai/plandex",
-        "cline/cline",
-        "RooVetGit/Roo-Code",
-    ]
+def carbon_brief() -> list[dict]:
+    """Fetch Carbon Brief RSS feed."""
+    feed = feedparser.parse("https://www.carbonbrief.org/feed/")
     results = []
-    for repo in repos:
-        feed = feedparser.parse(f"https://github.com/{repo}/releases.atom")
-        for entry in feed.entries[:3]:
-            results.append({
-                "title": f"{repo}: {entry.get('title', '')}",
-                "url": entry.get("link", ""),
-                "text": entry.get("summary", "")[:400],
-            })
+    for entry in feed.entries[:10]:
+        results.append({
+            "title": entry.get("title", ""),
+            "url": entry.get("link", ""),
+            "text": entry.get("summary", ""),
+        })
     return results
 
 
 ALL_SOURCES: dict[str, Any] = {
-    "github_trending": github_trending,
-    "github_search": github_search_tools,
-    "huggingface_releases": huggingface_new_models,
-    "papers": papers_with_code,
-    "arxiv": arxiv_feeds,
-    "hn_devtools": hacker_news_devtools,
-    "hn_mcp": hacker_news_mcp,
-    "smithery_mcp": smithery_trending,
-    "github_tool_releases": github_ai_tool_releases,
-    "pypi_updates": pypi_updates,
+    "arxiv_climate": arxiv_climate,
+    "arxiv_sustainability": arxiv_sustainability,
+    "github_climate_tools": github_climate_tools,
+    "github_trending_climate": github_trending_climate,
+    "hacker_news_climate": hacker_news_climate,
+    "hacker_news_climate_ask": hacker_news_climate_ask,
+    "iea_news": iea_news,
+    "nrel_news": nrel_news,
+    "carbon_brief": carbon_brief,
 }

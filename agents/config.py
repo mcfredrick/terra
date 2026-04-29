@@ -1,0 +1,8 @@
+BLOG_NAME = "Terra"
+BLOG_SLUG = "terra"
+BLOG_URL = "https://terra.mcfredrick.dev/"
+BLOG_GITHUB = "mcfredrick/terra"
+BOT_NAME = "terra-bot"
+BOT_EMAIL = "terra-bot@users.noreply.github.com"
+BLOG_DESCRIPTION = "Daily climate & sustainability tech digest for engineers"
+BOT_USER_AGENT = f"{BOT_NAME}/1.0 (github.com/{BLOG_GITHUB})"

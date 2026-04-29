@@ -1,4 +1,4 @@
-name: AI Roundup
+name: Terra Roundup
 
 on:
   schedule:
@@ -137,8 +137,8 @@ jobs:
         id: commit
         if: env.SKIP_AGENTS != 'true'
         run: |
-          git config user.name "tenkai-bot"
-          git config user.email "tenkai-bot@users.noreply.github.com"
+          git config user.name "terra-bot"
+          git config user.email "terra-bot@users.noreply.github.com"
           git add "$POST_PATH" agents/seen.json
           if [ -f roundup_topics.txt ]; then git add roundup_topics.txt; fi
           git commit -m "post: $(date -u +%Y-%m-%d) roundup [skip ci]"

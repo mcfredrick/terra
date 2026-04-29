@@ -22,6 +22,7 @@ from pathlib import Path
 
 import httpx
 
+from config import BLOG_URL, BLOG_NAME, BOT_USER_AGENT
 from model_selector import build_candidate_list
 
 OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
@@ -29,10 +30,10 @@ TOPIC_FILE = Path("/tmp/roundup_topic.json")
 TOPICS_FILE = Path(__file__).parent.parent / "roundup_topics.txt"
 POSTS_DIR = Path(__file__).parent.parent / "content" / "posts"
 
-HEADERS = {"User-Agent": "tenkai-bot/1.0 (github.com/mcfredrick/tenkai)"}
+HEADERS = {"User-Agent": BOT_USER_AGENT}
 TIMEOUT = 20
 
-PINNED_TOPIC_PROMPT = """You are an editor for Tenkai, a weekly AI/dev tools digest for senior engineers.
+PINNED_TOPIC_PROMPT = """You are an editor for Terra, a weekly climate tech digest for engineers pivoting into the space.
 
 A topic has been manually specified for this week's roundup. Your job is to flesh it out.
 
@@ -48,19 +49,19 @@ Return ONLY valid JSON (no markdown fences):
 search_queries: 3 specific queries to find the best tools/projects on this topic via GitHub and HN search.
 Make them targeted enough to surface real implementations, not tutorials or blog posts."""
 
-SYSTEM_PROMPT = """You are an editor for Tenkai, a weekly AI/dev tools digest for senior engineers.
+SYSTEM_PROMPT = """You are an editor for Terra, a weekly climate tech digest for engineers pivoting into the space.
 
-Your job: identify the 3-5 best roundup topics from this week's signals, ranked by how useful an article would be to the most engineers right now.
+Your job: identify the 3-5 best roundup topics from this week's signals, ranked by how useful an article would be to engineers considering a move into climate tech.
 
-Prioritize topics where multiple signals point to a shared pain point — a problem many people hit. Pain-point signals (Ask HN, Stack Overflow, Dev.to, GitHub Issues) outweigh news signals (HN stories, releases).
+Prioritize topics where multiple signals point to a shared pain point or active problem space — things people are actually building and shipping. Pain-point signals (Ask HN, Stack Overflow, Dev.to, GitHub Issues) outweigh news signals.
 
 Carried-forward topics have surfaced as strong candidates in previous weeks. Higher surface count means more durable engineer interest — these are more likely to produce a broadly useful article. Prefer them unless a clearly more urgent topic emerged this week.
 
 Good topics: ecosystem-level tools, workflows, patterns engineers can use in their own work.
-Examples: "Token optimization for coding agents", "Long-term memory for AI assistants",
-"RAG pipelines in 2025", "Autonomous agents for code review", "MCP server ecosystem".
+Examples: "Open-source tools for grid simulation", "ML for crop yield prediction",
+"Carbon accounting software landscape", "Battery management system firmware", "Climate data APIs for engineers".
 
-Bad topics: vague hype, company news, pure academic research, anything already covered recently.
+Bad topics: pure policy advocacy, fundraising, vague sustainability pledges, anything already covered recently.
 
 Return ONLY valid JSON (no markdown fences):
 {
@@ -86,24 +87,25 @@ runners_up: 2-4 topics that were strong candidates but didn't make the cut this 
 # --- Signal fetchers ---
 
 _HN_STORY_QUERIES = [
-    "LLM agent", "claude code", "MCP server",
-    "AI tools", "coding assistant", "context window",
+    "climate tech", "clean energy", "carbon capture",
+    "renewable energy", "electric grid", "battery storage",
+    "decarbonization", "net zero",
 ]
 
-_HN_ASK_QUERIES = ["AI agent", "LLM", "claude", "coding assistant"]
+_HN_ASK_QUERIES = ["climate", "clean energy", "sustainability", "carbon"]
 
-_STACKOVERFLOW_TAGS = ["llm", "langchain", "openai-api", "anthropic", "llm-agent"]
+_STACKOVERFLOW_TAGS = ["climate", "energy", "sustainability", "geospatial", "solar"]
 
-_DEVTO_TAGS = ["ai", "llm", "claudeai", "machinelearning", "agents"]
+_DEVTO_TAGS = ["sustainability", "climatetech", "energy", "environment", "greentech"]
 
 _GITHUB_PAIN_REPOS = [
-    "anthropics/claude-code",
-    "openai/openai-python",
-    "microsoft/autogen",
-    "langchain-ai/langchain",
-    "continuedev/continue",
-    "block/goose",
-    "cline/cline",
+    "openenergyplatform/oeplatform",
+    "NREL/SAM",
+    "PyPSA/PyPSA",
+    "transitionzero/tz-osm",
+    "carbonplan/carbonplan",
+    "openclimatefix/pvnet",
+    "calliope-project/calliope",
 ]
 
 
@@ -273,8 +275,8 @@ def call_llm(content: str, preferred_model: str) -> dict | None:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Topic Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Topic Agent",
     }
     for candidate in build_candidate_list(preferred_model, api_key):
         print(f"  Trying: {candidate}", file=sys.stderr)
@@ -350,8 +352,8 @@ def run_pinned(topic_name: str, model: str) -> None:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Topic Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Topic Agent",
     }
     for candidate in build_candidate_list(model, api_key):
         print(f"  Trying: {candidate}", file=sys.stderr)

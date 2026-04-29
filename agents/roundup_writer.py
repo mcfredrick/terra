@@ -10,6 +10,7 @@ from pathlib import Path
 
 import httpx
 
+from config import BLOG_URL, BLOG_NAME
 from model_selector import build_candidate_list
 
 OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
@@ -17,7 +18,7 @@ RESEARCH_FILE = Path("/tmp/roundup_research.json")
 SEEN_FILE = Path(__file__).parent / "seen.json"
 POSTS_DIR = Path(__file__).parent.parent / "content" / "posts"
 
-SYSTEM_PROMPT = """You are the voice behind Tenkai, writing a weekly deep-dive for senior engineers.
+SYSTEM_PROMPT = """You are the voice behind Terra, writing a weekly deep-dive for engineers pivoting into climate tech.
 
 This is NOT the daily news digest. This is an editorial roundup: a focused look at 4-6 tools or
 approaches that address a specific topic engineers care about right now.
@@ -71,8 +72,8 @@ def call_llm(content: str, preferred_model: str) -> str:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Roundup Writer",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Roundup Writer",
     }
     import time
 

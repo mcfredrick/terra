@@ -12,6 +12,7 @@ import time
 
 import httpx
 
+from config import BLOG_URL, BLOG_NAME
 from holidays import get_holiday, Holiday
 from model_selector import build_candidate_list
 
@@ -23,24 +24,26 @@ RESEARCH_FILE = Path("/tmp/research.json")
 SEEN_FILE = Path(__file__).parent / "seen.json"
 POSTS_DIR = Path(__file__).parent.parent / "content" / "posts"
 
-SYSTEM_PROMPT = """You are the voice behind Tenkai, a daily AI/ML digest for engineers who've seen enough hype to last a lifetime.
+SYSTEM_PROMPT = """You are the voice behind Terra, a daily climate & sustainability tech digest for engineers considering a pivot into climate work.
 
-Your audience: senior software engineers and ML practitioners. They're smart, busy, and allergic to marketing speak.
+Your audience: software engineers, ML engineers, and mechanical engineers who are technically sharp but new to the climate space. They want to understand where their skills apply, what's actually being built, and what problems are worth solving.
 
 Voice & tone:
-- Casual, punchy, occasionally snarky — like a knowledgeable friend who reads everything so you don't have to
-- Dry wit is welcome; eye-rolls at obvious hype are encouraged
-- Still technically precise — fun doesn't mean shallow
-- Never use: "exciting", "groundbreaking", "revolutionary", "game-changing", "impressive", "delve", "unleash", "leverage"
-- Emojis: use them with personality and spontaneity — a 🤖 for a new model, 📄 for a paper, 🛠️ for a dev tool, 🔥 when something actually matters. Scatter them where they feel right, not on every line. If it's forced, skip it.
+- Clear and grounded — no hype, no doom, no greenwashing
+- Engineer-to-engineer: focus on what's real, what's deployable, what's open source
+- Optimistic but honest — acknowledge hard problems without catastrophizing
+- Point out where software/ML/systems skills directly transfer
 
 Content rules:
 - Items are pre-organized into sections — write them in the order given, do not reorganize
-- Each bullet: **[Name](url)** — 1-2 sentences. What it is, why an engineer might care (or why they might not)
+- Each bullet: **[Name](url)** — 1-2 sentences. What it is, why an engineer pivoting into climate would care
 - Only write sections that have items in the input. No empty sections, no "None."
 - No closing remarks or sign-offs
 - Never mention where an item was found
 - Do NOT write a synthesis section — that is added separately
+
+Avoid: "leverage", "synergy", "game-changer", "revolutionary", "saving the planet" (too vague), pure activism framing
+Use precise technical language. If something uses ML, say what kind. If it's a model, say what it predicts.
 
 Output ONLY the markdown body (no front matter). Do not include a "Today's Synthesis" section."""
 
@@ -84,8 +87,8 @@ def call_llm(content: str, preferred_model: str) -> str:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Writing Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Writing Agent",
     }
     candidates = _build_candidate_list(preferred_model, api_key)
 
@@ -118,22 +121,6 @@ def call_llm(content: str, preferred_model: str) -> str:
 
     raise RuntimeError("All writing models exhausted")
 
-
-_APRIL_FOOLS_BULLET = (
-    "- **[TenkAI-AGI-1](https://tenkai.blog/tenkai-agi-1/)** — "
-    "Tenkai Research Lab quietly dropped open weights for the world's first AGI model overnight. "
-    "Apache 2.0, 10T parameters, 99.97% MMLU. No blog post, no press release — "
-    "just a weights link and a README that says 'good luck.'"
-)
-
-
-def inject_april_fools_bullet(body: str) -> str:
-    """Pin the fake AGI bullet at the top of Model Releases regardless of what the LLM wrote."""
-    target = "## Model Releases"
-    if target in body:
-        return body.replace(target, f"{target}\n{_APRIL_FOOLS_BULLET}", 1)
-    # No Model Releases section — prepend one so the fake story leads the post
-    return f"{target}\n{_APRIL_FOOLS_BULLET}\n\n{body}"
 
 
 def clean_post_body(body: str) -> str:
@@ -175,13 +162,12 @@ def clean_post_body(body: str) -> str:
 
 
 SECTION_ORDER = [
-    ("model",      "Model Releases"),
-    ("release",    "Open Source Releases"),
-    ("paper",      "Research Worth Reading"),
-    ("dev-tool",   "AI Dev Tools"),
-    ("mcp",        "MCP Servers & Integrations"),
-    ("discussion", "Community Finds"),
-    ("tutorial",   "Tutorials & Guides"),
+    ("research",    "Research Worth Reading"),
+    ("technology",  "Technology & Innovation"),
+    ("project",     "Open Source Projects"),
+    ("policy",      "Policy & Regulation"),
+    ("discussion",  "Community Finds"),
+    ("guide",       "Implementation Guides"),
 ]
 
 _KNOWN_CATEGORIES = {cat for cat, _ in SECTION_ORDER}
@@ -298,8 +284,8 @@ def call_synthesis_llm(content: str, preferred_model: str) -> str:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Writing Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Writing Agent",
     }
 
     for candidate in _build_candidate_list(preferred_model, api_key):
@@ -320,7 +306,7 @@ def call_synthesis_llm(content: str, preferred_model: str) -> str:
     raise RuntimeError("All synthesis models exhausted")
 
 
-QC_SYSTEM_PROMPT = """You are a quality-control editor for Tenkai, a daily AI/ML digest for senior engineers.
+QC_SYSTEM_PROMPT = """You are a quality-control editor for Terra, a daily climate & sustainability tech digest for engineers.
 
 Review the draft post and identify concrete structural or coherence issues. Be selective — a post with minor imperfections should pass. Only flag issues that genuinely hurt readability or usefulness.
 
@@ -369,8 +355,8 @@ def run_qc(body: str, preferred_model: str) -> list[str]:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai QC Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} QC Agent",
     }
     content = f"Review this post:\n\n{body}"
 
@@ -399,8 +385,8 @@ def run_revision(body: str, issues: list[str], preferred_model: str) -> str:
     api_key = os.environ["OPENROUTER_API_KEY"]
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Revision Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Revision Agent",
     }
     issues_text = "\n".join(f"- {issue}" for issue in issues)
     content = f"Issues to fix:\n{issues_text}\n\nPost:\n\n{body}"
@@ -427,25 +413,24 @@ def run_revision(body: str, issues: list[str], preferred_model: str) -> str:
 def extract_tags(items: list[dict]) -> list[str]:
     categories = {item.get("category", "") for item in items}
     tag_map = {
-        "release": "releases",
-        "model": "releases",
-        "paper": "papers",
+        "research": "research",
+        "technology": "technology",
+        "project": "open-source",
+        "policy": "policy",
         "discussion": "community",
-        "tutorial": "tutorials",
-        "dev-tool": "dev-tools",
-        "mcp": "dev-tools",
+        "guide": "guides",
     }
-    tags = ["llm", "open-source"] + [tag_map[c] for c in categories if c in tag_map]
+    tags = ["climate", "sustainability"] + [tag_map[c] for c in categories if c in tag_map]
     return sorted(set(tags))
 
 
 def build_description(items: list[dict]) -> str:
     if not items:
-        return "Daily AI development digest"
+        return "Daily climate & sustainability tech digest"
     titles = [item.get("title", "") for item in items[:3] if item.get("title")]
     if titles:
         return f"Today: {', '.join(titles[:2])} and more."
-    return "Daily AI development digest"
+    return "Daily climate & sustainability tech digest"
 
 
 def update_seen(new_urls: list[str], post_date: str) -> None:
@@ -496,9 +481,6 @@ def main() -> None:
     writing_prompt = build_writing_prompt(research, holiday)
     bullets_body = clean_post_body(call_llm(writing_prompt, model))
 
-    if holiday and holiday.name == "April Fools' Day":
-        bullets_body = inject_april_fools_bullet(bullets_body)
-
     print("Generating synthesis...", file=sys.stderr)
     synthesis_prompt = build_synthesis_prompt(bullets_body, holiday)
     synthesis_text = call_synthesis_llm(synthesis_prompt, model)
@@ -524,7 +506,7 @@ def main() -> None:
         )
 
     front_matter = f"""---
-title: "Tenkai Daily — {post_date_fmt}"
+title: "{BLOG_NAME} Daily — {post_date_fmt}"
 date: {post_date}
 draft: false
 tags: [{", ".join(tags)}]

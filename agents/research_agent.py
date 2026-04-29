@@ -10,41 +10,30 @@ from pathlib import Path
 
 import httpx
 
+from config import BLOG_URL, BLOG_NAME, BOT_USER_AGENT
 from sources import ALL_SOURCES
 
 OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
 SEEN_FILE = Path(__file__).parent / "seen.json"
 WATCHLIST_FILE = Path(__file__).parent.parent / "watchlist.txt"
 OUTPUT_FILE = Path("/tmp/research.json")
-BUSINESS_KEYWORDS = {"funding", "valuation", "ipo", "acquisition", "acquires", "merger", "raises", "series a", "series b", "series c"}
+BUSINESS_KEYWORDS = {"funding", "valuation", "ipo", "acquisition", "acquires", "merger", "raises", "series a", "series b", "series c", "grant", "subsidy", "incentive"}
 
-SYSTEM_PROMPT = """You are a technical research assistant for AI/ML engineers.
+SYSTEM_PROMPT = """You are a technical research assistant for engineers exploring climate tech and sustainability.
 
 Extract technically relevant items from the provided content. Focus on:
-- New open-source releases and framework updates
-- Practical research papers with engineering implications
-- Developer techniques, tools, and libraries
-- Performance benchmarks and optimization findings
+- New open-source tools, models, and frameworks for climate/energy/sustainability applications
+- Research papers with practical engineering implications (energy storage, grid optimization, climate modeling, carbon capture, sustainable agriculture, materials science)
+- Developer techniques and libraries applicable to climate problems
+- Real-world deployments and case studies engineers can learn from
 
-Exclude strictly:
-- Business news: funding, acquisitions, valuations, IPOs, layoffs
-- Marketing announcements without technical substance
-- Hype without concrete details
+Skip: pure policy advocacy, fundraising announcements, vague sustainability pledges, items with no technical substance, anything already widely covered.
 
-For each item, if multiple URLs point to the same story, pick the most useful/canonical one.
+For each item return JSON: {"title": "...", "url": "...", "summary": "2-3 sentences", "category": "...", "relevance_score": 0.0-1.0}
 
-Return ONLY a JSON array. Each element must have exactly these fields:
-{
-  "title": "concise title",
-  "url": "canonical URL",
-  "summary": "2-3 sentence technical summary",
-  "category": "release|paper|discussion|tutorial",
-  "relevance_score": <integer 1-10>
-}
+Categories: research | technology | policy | project | discussion | guide
 
-Drop items with relevance_score below 7. Return [] if nothing qualifies.
-
-Items marked [CURATED - author hand-picked] were personally selected by the author — treat them as high-priority and include at least one per post if they meet the minimum quality bar."""
+Return a JSON array only."""
 
 
 def load_seen_urls() -> set[str]:
@@ -87,7 +76,7 @@ def fetch_url(url: str) -> str:
     try:
         r = httpx.get(
             url,
-            headers={"User-Agent": "tenkai-bot/1.0 (github.com/mattdlong/tenkai)"},
+            headers={"User-Agent": BOT_USER_AGENT},
             timeout=20,
             follow_redirects=True,
         )
@@ -114,8 +103,8 @@ def call_llm(content: str, model: str, retries: int = 3) -> list[dict] | None:
     }
     headers = {
         "Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}",
-        "HTTP-Referer": "https://github.com/mcfredrick/tenkai",
-        "X-Title": "Tenkai Research Agent",
+        "HTTP-Referer": BLOG_URL,
+        "X-Title": f"{BLOG_NAME} Research Agent",
     }
 
     for attempt in range(retries):
@@ -171,25 +160,14 @@ import re as _re
 
 # Word-boundary pattern prevents "cli" from matching "client", etc.
 # fine-tun prefix catches fine-tuning/fine-tune without a trailing boundary.
-_DEV_TOOL_PATTERN = _re.compile(
-    r"\b(?:framework|platform|agents?|sdk|cli|toolkit)\b|fine-tun\w*",
-    _re.IGNORECASE,
-)
-
-
 def recategorize(item: dict) -> dict:
-    """Override LLM-assigned category using URL patterns and keywords."""
+    """Override LLM-assigned category using URL patterns."""
     url = item.get("url", "").lower()
-    text = item.get("title", "") + " " + item.get("summary", "")
 
-    if "huggingface.co/" in url:
-        return {**item, "category": "model"}
     if "arxiv.org/" in url or "openreview.net/" in url:
-        return {**item, "category": "paper"}
-    if "smithery.ai/servers/" in url:
-        return {**item, "category": "mcp"}
-    if "github.com/" in url and _DEV_TOOL_PATTERN.search(text):
-        return {**item, "category": "dev-tool"}
+        return {**item, "category": "research"}
+    if "github.com/" in url:
+        return {**item, "category": "project"}
 
     return item
 

@@ -1,4 +1,4 @@
-name: Daily AI Digest
+name: Daily Terra Digest
 
 on:
   schedule:
@@ -120,8 +120,8 @@ jobs:
         id: commit
         if: env.SKIP_AGENTS != 'true'
         run: |
-          git config user.name "tenkai-bot"
-          git config user.email "tenkai-bot@users.noreply.github.com"
+          git config user.name "terra-bot"
+          git config user.email "terra-bot@users.noreply.github.com"
           POST="content/posts/$(date -u +%Y-%m-%d).md"
           git add "$POST" agents/seen.json
           if [ -f watchlist.txt ]; then git add watchlist.txt; fi

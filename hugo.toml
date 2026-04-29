@@ -1,7 +1,7 @@
-baseURL = "https://tenkai.blog/"
-title = "Tenkai"
+baseURL = "https://terra.mcfredrick.dev/"
+title = "Terra"
 languageCode = "en-us"
-theme = "tenkai"
+theme = "terra"
 paginate = 20
 
 [taxonomies]
@@ -12,8 +12,8 @@ paginate = 20
   section = ["HTML", "RSS"]
 
 [params]
-  description = "Daily AI development news for engineers"
-  author = "Tenkai Bot"
+  description = "Daily climate & sustainability tech digest for engineers"
+  author = "Terra Bot"
 
 [markup]
   [markup.highlight]
