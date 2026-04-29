@@ -1,4 +1,4 @@
-baseURL = "https://terra.mcfredrick.dev/"
+baseURL = "https://mcfredrick.github.io/terra/"
 title = "Terra"
 languageCode = "en-us"
 theme = "terra"
