@@ -6,9 +6,9 @@ persistent pain points accumulate surface count across weeks.
 
 Signal sources (in order of pain-point signal strength):
   - HN Ask HN: explicit questions and frustrations from engineers
-  - Stack Overflow: trending questions tagged with AI/LLM keywords
-  - Dev.to: trending practitioner posts on AI topics
-  - GitHub Issues: high-comment open issues on popular AI repos
+  - Stack Overflow: trending questions tagged with climate/energy keywords
+  - Dev.to: trending practitioner posts on climate topics
+  - GitHub Issues: high-comment open issues on popular climate/energy repos
   - HN Stories: general news and releases
 """
 

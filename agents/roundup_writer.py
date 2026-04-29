@@ -122,7 +122,7 @@ def build_prompt(research: dict) -> str:
 def build_description(items: list[dict]) -> str:
     names = [item.get("name", "") for item in items[:3] if item.get("name")]
     if not names:
-        return "Weekly AI tools roundup"
+        return "Weekly climate tech roundup"
     return "This week: " + ", ".join(names) + " and more."
 
 
