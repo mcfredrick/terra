@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorials on Tenkai</title><link>https://tenkai.blog/tags/tutorials/</link><description>Recent content in Tutorials on Tenkai</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://tenkai.blog/tags/tutorials/index.xml" rel="self" type="application/rss+xml"/><item><title>Tenkai Daily — April 14, 2026</title><link>https://tenkai.blog/posts/2026-04-14/</link><pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate><guid>https://tenkai.blog/posts/2026-04-14/</guid><description>&lt;h2 id="model-releases">Model Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/unsloth/GLM-5.1-GGUF" target="_blank" rel="noopener noreferrer">unsloth/GLM-5.1-GGUF&lt;/a>
+ — GGUF quantized variant of GLM-5.1 enabling efficient local deployment for conversational Chinese and English text generation, based on the original GLM-5.1 model.&lt;/li>
+&lt;/ul>
+&lt;h2 id="open-source-releases">Open Source Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank" rel="noopener noreferrer">nextlevelbuilder/ui-ux-pro-max-skill&lt;/a>
+ — An AI skill for building professional UI/UX across multiple platforms, integrating design intelligence with tools like React and Tailwind CSS.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gsd-build/get-shit-done" target="_blank" rel="noopener noreferrer">gsd-build/get-shit-done&lt;/a>
+ — A lightweight and powerful meta-prompting and spec-driven development system for Claude Code, emphasizing context engineering.&lt;/li>
+&lt;li>&lt;a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank" rel="noopener noreferrer">asgeirtj/system_prompts_leaks&lt;/a>
+ — A collection of extracted system prompts from major AI models, including Claude and GPT, for transparency and research.&lt;/li>
+&lt;li>&lt;a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank" rel="noopener noreferrer">sickn33/antigravity-awesome-skills&lt;/a>
+ — A library of over 1,400 agentic skills for Claude Code and other coding platforms, with installation and management tools.&lt;/li>
+&lt;li>&lt;a href="https://github.com/santifer/career-ops" target="_blank" rel="noopener noreferrer">santifer/career-ops&lt;/a>
+ — An AI-powered job search system leveraging Claude Code for automation, resume generation, and interview preparation.&lt;/li>
+&lt;li>&lt;a href="https://github.com/safishamsi/graphify" target="_blank" rel="noopener noreferrer">safishamsi/graphify&lt;/a>
+ — An AI coding skill that converts codebases into queryable knowledge graphs, enhancing code understanding and navigation.&lt;/li>
+&lt;/ul>
+&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2604.09576" target="_blank" rel="noopener noreferrer">AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers&lt;/a>
+ — Introduces AHC, a meta-learned adaptive compression framework for continual object detection on microcontrollers with under 100KB memory. Enables dynamic compression strategy adjustment to evolving task distributions, improving memory utilization.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2604.09590" target="_blank" rel="noopener noreferrer">DeepReviewer 2.0: A Traceable Agentic System for Auditable Scientific Peer Review&lt;/a>
+ — Presents DeepReviewer 2.0, a traceable agentic system for auditable scientific peer review. Focuses on output contracts that provide justifications, evidence, and concrete follow-ups to enable human review and verification of AI-generated critiques.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2604.09574" target="_blank" rel="noopener noreferrer">Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization&lt;/a>
+ — Proposes a benchmark to evaluate mobile GUI agents on humanization—anti-detection capabilities in human-centric digital ecosystems—rather than solely utility and robustness. Addresses adversarial countermeasures and agent behavior in human-like interactions.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2604.09580" target="_blank" rel="noopener noreferrer">OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling&lt;/a>
+ — Proposes Object-Oriented Programmatic World Modeling (OOWM) to structure embodied reasoning and planning. Addresses limitations of linear natural language prompting by explicitly representing state-space, object hierarchies, and causal dependencies for embodied tasks.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ai-dev-tools">AI Dev Tools&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://provider" target="_blank" rel="noopener noreferrer">farion1231/cc-switch&lt;/a>
+ — A cross-platform desktop assistant tool for Claude Code and related platforms, enabling provider management and skill integration.&lt;/li>
+&lt;li>&lt;a href="https://github.com/CherryHQ/cherry-studio" target="_blank" rel="noopener noreferrer">CherryHQ/cherry-studio&lt;/a>
+ — An AI productivity studio offering smart chat, autonomous agents, and unified access to frontier LLMs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/HKUDS/nanobot" target="_blank" rel="noopener noreferrer">HKUDS/nanobot&lt;/a>
+ — An ultra-lightweight personal AI agent designed for efficiency and ease of use across multiple platforms.&lt;/li>
+&lt;li>&lt;a href="https://github.com/wshobson/agents" target="_blank" rel="noopener noreferrer">wshobson/agents&lt;/a>
+ — A framework for intelligent automation and multi-agent orchestration, focusing on Claude Code and related tools.&lt;/li>
+&lt;li>&lt;a href="https://github.com/router-for-me/CLIProxyAPI" target="_blank" rel="noopener noreferrer">router-for-me/CLIProxyAPI&lt;/a>
+ — An API service that wraps multiple AI CLI tools, providing a unified interface for Gemini, Claude, and other models.&lt;/li>
+&lt;li>&lt;a href="https://github.com/iOfficeAI/AionUi" target="_blank" rel="noopener noreferrer">iOfficeAI/AionUi&lt;/a>
+ — A free, local, open-source cowork app providing OpenClaw and AI agent support for multiple platforms.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorials--guides">Tutorials &amp;amp; Guides&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank" rel="noopener noreferrer">shanraisshan/claude-code-best-practice&lt;/a>
+ — A repository of best practices for Claude Code, covering agentic engineering and workflow optimization.&lt;/li>
+&lt;/ul>
+&lt;h2 id="todays-synthesis">Today&amp;rsquo;s Synthesis&lt;/h2>
+&lt;p>Anchor on &lt;a href="https://huggingface.co/unsloth/GLM-5.1-GGUF" target="_blank" rel="noopener noreferrer">unsloth/GLM-5.1-GGUF&lt;/a>
+ for local conversational efficiency as a baseline deployment requirement. Wrap it with &lt;a href="https://github.com/farion1231/cc-switch" target="_blank" rel="noopener noreferrer">farion1231/cc-switch&lt;/a>
+ to manage provider routing and skill integration, enabling toggling between local and cloud backends without rewriting core logic. Use &lt;a href="https://github.com/HKUDS/nanobot" target="_blank" rel="noopener noreferrer">HKUDS/nanobot&lt;/a>
+ for lightweight, efficient task execution to avoid runtime bloat. Combine this stack with &lt;a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank" rel="noopener noreferrer">sickn33/antigravity-awesome-skills&lt;/a>
+ to reuse proven agentic patterns and accelerate feature delivery. This synthesis leverages the specific items above: a local model for privacy/speed, a unified API layer for flexibility, and a curated skill library for rapid orchestration, keeping infra maintainable and deployments honest about resource constraints.&lt;/p></description></item><item><title>Tenkai Daily — April 10, 2026</title><link>https://tenkai.blog/posts/2026-04-10/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://tenkai.blog/posts/2026-04-10/</guid><description>&lt;h2 id="model-releases">Model Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://huggingface.co/zai-org/GLM-5.1" target="_blank" rel="noopener noreferrer">ZAI Org GLM-5.1&lt;/a>
+&lt;/strong> — A bilingual (English/Chinese) MoE model under an MIT license. Good if you need scalable performance without the proprietary handcuffs. 🤖&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://huggingface.co/openbmb/VoxCPM2" target="_blank" rel="noopener noreferrer">OpenBMB VoxCPM2&lt;/a>
+&lt;/strong> — Diffusion-based TTS that handles multilingual voice cloning across dozens of languages. Apache 2.0, so it&amp;rsquo;s actually usable in production.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://huggingface.co/tencent/HY-OmniWeaving" target="_blank" rel="noopener noreferrer">Tencent HY-OmniWeaving&lt;/a>
+&lt;/strong> — A video diffusion model fine-tuned from HunyuanVideo-1.5 for frame interpolation and weaving. Mostly for researchers who enjoy fighting with video weights.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://huggingface.co/unsloth/gemma-4-31B-it-GGUF" target="_blank" rel="noopener noreferrer">Unsloth Gemma-4-31B-it GGUF&lt;/a>
+&lt;/strong> — Quantized version of Google&amp;rsquo;s 31B model for llama.cpp. Keeps the multimodal capabilities but actually fits on your hardware. 🛠️&lt;/li>
+&lt;/ul>
+&lt;h2 id="open-source-releases">Open Source Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/coleam00/Archon" target="_blank" rel="noopener noreferrer">Archon&lt;/a>
+&lt;/strong> — A harness builder for AI coding designed to make LLM output deterministic. Because &amp;ldquo;it worked once in the chat&amp;rdquo; isn&amp;rsquo;t a deployment strategy.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://pypi.org/project/quantcpp/0.11.0/" target="_blank" rel="noopener noreferrer">quantcpp 0.11.0&lt;/a>
+&lt;/strong> — A single-header C++ library that compresses KV caches by up to 7x without sacrificing fp32 precision. A rare win for memory-constrained deployments. 🔥&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank" rel="noopener noreferrer">opendataloader-pdf&lt;/a>
+&lt;/strong> — A PDF parser that tries to preserve semantic layout for ML pipelines. Because parsing PDFs is still a nightmare. 📄&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/shiyu-coder/Kronos" target="_blank" rel="noopener noreferrer">Kronos&lt;/a>
+&lt;/strong> — An open-weight foundation model trained specifically on financial market data. Useful if you&amp;rsquo;re doing risk modeling and don&amp;rsquo;t want to prompt-engineer a generalist model.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://pypi.org/project/matrix-for-agents/0.6.9.34/" target="_blank" rel="noopener noreferrer">matrix-for-agents 0.6.9.34&lt;/a>
+&lt;/strong> — Modular architecture for AI agents with interchangeable skill modules. Basically a plugin system for your LLM workflows.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://pypi.org/project/dobbe/0.8.0/" target="_blank" rel="noopener noreferrer">dobbe 0.8.0&lt;/a>
+&lt;/strong> — A CLI that coordinates multiple Claude Code agents for PR reviews, vulnerability scanning, and DORA tracking. An attempt to automate the parts of software engineering we all hate.&lt;/li>
+&lt;/ul>
+&lt;h2 id="mcp-servers--integrations">MCP Servers &amp;amp; Integrations&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://smithery.ai/servers/sgroy10/speclock" target="_blank" rel="noopener noreferrer">SpecLock&lt;/a>
+&lt;/strong> — A constraint engine and &amp;ldquo;patch firewall&amp;rdquo; for code governance. It adds a layer of typed constraints to keep AI coding assistants from hallucinating your architecture away.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://smithery.ai/servers/shawnnygoh/arxiv-scout" target="_blank" rel="noopener noreferrer">ArXiv Scout&lt;/a>
+&lt;/strong> — MCP server for searching arXiv and extracting PDF text. Saves you from manually downloading 20 papers to find one relevant equation. 📄&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://smithery.ai/servers/agentidx/agentcrawl" target="_blank" rel="noopener noreferrer">AgentIndex&lt;/a>
+&lt;/strong> — A discovery platform indexing 20k+ agents across GitHub and HuggingFace. Like a yellow pages for AI agents.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://smithery.ai/servers/samson-art/transcriptor-mcp" target="_blank" rel="noopener noreferrer">Transcriptor&lt;/a>
+&lt;/strong> — Fetches transcripts from almost every video platform with a Whisper fallback for audio. Useful for turning video tutorials into LLM context.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://smithery.ai/servers/ta-mcp/technical-analysis-mcp" target="_blank" rel="noopener noreferrer">Technical Analysis&lt;/a>
+&lt;/strong> — Provides 150+ TA-Lib indicators and stock screening for AI agents. For those building algorithmic trading bots that they hope won&amp;rsquo;t blow up their accounts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorials--guides">Tutorials &amp;amp; Guides&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank" rel="noopener noreferrer">andrej-karpathy-skills&lt;/a>
+&lt;/strong> — A distilled &lt;code>CLAUDE.md&lt;/code> file based on Karpathy&amp;rsquo;s observations of LLM coding failures. Practical guidelines to stop Claude from making the same mistakes over and over. 🔥&lt;/li>
+&lt;/ul>
+&lt;h2 id="todays-synthesis">Today&amp;rsquo;s Synthesis&lt;/h2>
+&lt;p>If you’re trying to run a large multimodal model on modest hardware without sacrificing determinism, start by pulling the &lt;a href="https://huggingface.co/unsloth/gemma-4-31B-it-GGUF" target="_blank" rel="noopener noreferrer">Unsloth Gemma-4-31B-it GGUF&lt;/a>
+ quantized checkpoint for llama.cpp, then layer &lt;a href="https://pypi.org/project/quantcpp/0.11.0/" target="_blank" rel="noopener noreferrer">quantcpp 0.11.0&lt;/a>
+ on top to shrink the KV cache by up to 7× while keeping fp32 precision — this cuts memory pressure enough to fit the 31B model on a single 24 GB GPU. Wrap the resulting inference service in a thin agent built with &lt;a href="https://pypi.org/project/matrix-for-agents/0.6.9.34/" target="_blank" rel="noopener noreferrer">matrix-for-agents 0.6.9.34&lt;/a>
+ so you can hot‑swap skill modules (e.g., a financial‑analysis plug‑in using &lt;a href="https://github.com/shiyu-coder/Kronos" target="_blank" rel="noopener noreferrer">Kronos&lt;/a>
+ or a PDF‑parser using &lt;a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank" rel="noopener noreferrer">opendataloader-pdf&lt;/a>
+) without rebuilding the core. Finally, guard the whole pipeline with &lt;a href="https://smithery.ai/servers/sgroy10/speclock" target="_blank" rel="noopener noreferrer">SpecLock&lt;/a>
+ to enforce typed constraints on the LLM’s output, preventing hallucinated architecture changes or unsafe financial advice from slipping into production. The combo gives you a lean, controllable, and extensible AI stack you can actually deploy today.&lt;/p></description></item><item><title>Tenkai Daily — March 24, 2026</title><link>https://tenkai.blog/posts/2026-03-24/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://tenkai.blog/posts/2026-03-24/</guid><description>&lt;h2 id="model-releases">Model Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/mistralai/Mistral-Small-4-119B-2603" target="_blank" rel="noopener noreferrer">mistralai/Mistral-Small-4-119B-2603&lt;/a>
+ — It&amp;rsquo;s a 119B parameter multilingual model covering many languages, with safetensors, FP8 quant, Apache‑2.0. Good if you need broad language coverage without paying for larger models.&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/Qwen/Qwen3.5-35B-A3B" target="_blank" rel="noopener noreferrer">Qwen/Qwen3.5-35B-A3B&lt;/a>
+ — MoE base model for image‑text‑to‑text and chat, safetensors, Azure‑ready, Apache‑2.0. Useful as a multimodal foundation.&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/Qwen/Qwen3.5-9B" target="_blank" rel="noopener noreferrer">Qwen/Qwen3.5-9B&lt;/a>
+ — Dense 9B base, safetensors, image‑text‑to‑text, Azure‑compatible, Apache‑2.0. Handy for fine‑tuning when you don&amp;rsquo;t need MoE overhead.&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF" target="_blank" rel="noopener noreferrer">Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF&lt;/a>
+ — GGUF‑quantized distilled reasoning model from Qwen3.5‑9B, trained on Claude‑4.6 Opus CoT data, multilingual EN/ZH/KO, Apache‑2.0. Good for lightweight reasoning tasks.&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/datalab-to/chandra-ocr-2" target="_blank" rel="noopener noreferrer">datalab-to/chandra-ocr-2&lt;/a>
+ — Qwen3.5‑based OCR/layout/markdown extractor, safetensors, multilingual, OpenRAIL license. Useful if you need PDF‑to‑markdown pipelines.&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF" target="_blank" rel="noopener noreferrer">Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF&lt;/a>
+ — Same idea but 27B base, GGUF quant, distilled from Claude‑4.6 Opus, multilingual EN/ZH/KO, Apache‑2.0. Balances size and reasoning power.&lt;/li>
+&lt;/ul>
+&lt;h2 id="open-source-releases">Open Source Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://pypi.org/project/awb/0.5.2/" target="_blank" rel="noopener noreferrer">awb 0.5.2&lt;/a>
+ — Benchmark harness for end‑to‑end AI coding tool performance, measures speed, correctness, integration overhead across dev environments. Supports customizable tasks.&lt;/li>
+&lt;/ul>
+&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20397" target="_blank" rel="noopener noreferrer">KV Cache Optimization Strategies for Scalable and Efficient LLM Inference&lt;/a>
+ — Surveys quantization, compression, dynamic eviction for KV cache; analyzes trade‑offs; gives practical deployment guidelines.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20260" target="_blank" rel="noopener noreferrer">ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics&lt;/a>
+ — Models agent interactions as Markov process to predict logical fallacies before they spread; improves robustness in collaborative reasoning.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20285" target="_blank" rel="noopener noreferrer">AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse&lt;/a>
+ — Benchmark suite for embodied AI under impaired comms; provides environments/metrics; shows robustness drops.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20293" target="_blank" rel="noopener noreferrer">LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs&lt;/a>
+ — Combines LLM embeddings with energy‑based contrastive learning for OOD detection on graphs; uses textual node attributes; yields better detection.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20470" target="_blank" rel="noopener noreferrer">DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation&lt;/a>
+ — Agent‑driven framework that merges online text‑to‑image diffusion models via graph optimization; resulting models cover broader generative abilities.&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.20537" target="_blank" rel="noopener noreferrer">LLM-Driven Heuristic Synthesis for Industrial Process Control: Lessons from Hot Steel Rolling&lt;/a>
+ — Framework that iteratively proposes/refines human‑readable Python controllers for hot steel rolling using simulator feedback; yields auditable heuristics.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ai-dev-tools">AI Dev Tools&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/tinygrad/tinygrad" target="_blank" rel="noopener noreferrer">tinygrad/tinygrad&lt;/a>
+ — Minimalist DL framework reimplementing core PyTorch with focus on simplicity; good for learning and quick prototyping.&lt;/li>
+&lt;li>&lt;a href="https://github.com/hao-ai-lab/FastVideo" target="_blank" rel="noopener noreferrer">hao-ai-lab/FastVideo&lt;/a>
+ — Unified framework for accelerated video generation, combining efficient inference with post‑training optimizations; targets text‑to‑video and video‑to‑video devs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/elizaOS/eliza" target="_blank" rel="noopener noreferrer">elizaOS/eliza&lt;/a>
+ — Open‑source agent framework with modular memory, tool use, learning components; lowers barrier to building general‑purpose agents.&lt;/li>
+&lt;li>&lt;a href="https://github.com/triggerdotdev/trigger.dev" target="_blank" rel="noopener noreferrer">triggerdotdev/trigger.dev&lt;/a>
+ — Managed platform for building, deploying, scaling AI agents/workflows; handles infra, queuing, retries; lets you focus on agent logic.&lt;/li>
+&lt;li>&lt;a href="https://github.com/supermemoryai/supermemory" target="_blank" rel="noopener noreferrer">supermemoryai/supermemory&lt;/a>
+ — High‑performance scalable memory engine/API for AI apps; fast vector storage/retrieval/update; suited for long‑context agents and RAG.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorials--guides">Tutorials &amp;amp; Guides&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/jingyaogong/minimind" target="_blank" rel="noopener noreferrer">jingyaogong/minimind&lt;/a>
+ — End‑to‑end script to train a 26M‑parameter GPT from scratch in ~2 hours, includes data prep, architecture, training loop; aimed at educators wanting hands‑on LLM training.&lt;/li>
+&lt;/ul>
+&lt;h2 id="todays-synthesis">Today&amp;rsquo;s Synthesis&lt;/h2>
+&lt;p>Want a multilingual coding assistant that you can iterate on quickly? Start with the 119‑parameter Mistral‑Small‑4 model (&lt;a href="https://huggingface.co/mistralai/Mistral-Small-4-119B-2603" target="_blank" rel="noopener noreferrer">mistralai/Mistral-Small-4-119B-2603&lt;/a>
+) as a strong, Apache‑2.0‑licensed base that already handles dozens of languages and ships with safetensors and FP8 quantisation for cheaper inference. Wrap it in the awb benchmark harness (&lt;a href="https://pypi.org/project/awb/0.5.2/" target="_blank" rel="noopener noreferrer">awb 0.5.2&lt;/a>
+) to measure end‑to‑end speed, correctness and integration overhead across your IDE, CI pipelines and local dev boxes; the harness lets you swap in custom tasks (e.g., repo‑level docstring generation or bug‑fix synthesis) and get repeatable numbers without building a harness from scratch. While you’re tuning prompts or adapting the model, prototype changes in tinygrad (&lt;a href="https://github.com/tinygrad/tinygrad" target="_blank" rel="noopener noreferrer">tinygrad/tinygrad&lt;/a>
+) – its minimal PyTorch‑like API lets you experiment with LoRA adapters, quantisation schemes or custom loss functions in a few lines of code, then port the final weights back to the full‑size Mistral checkpoint for production evaluation. This loop gives you a concrete, low‑friction path from idea to measurable impact.&lt;/p></description></item><item><title>Tenkai Daily — March 14, 2026</title><link>https://tenkai.blog/posts/2026-03-14/</link><pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate><guid>https://tenkai.blog/posts/2026-03-14/</guid><description>&lt;h2 id="open-source-releases">Open Source Releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/microsoft/BitNet" target="_blank" rel="noopener noreferrer">BitNet&lt;/a>
+&lt;/strong> — The official inference framework for 1-bit LLMs. It gives you a way to actually run these hyper-compressed models, slashing memory and compute needs for inference.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/langflow-ai/openrag" target="_blank" rel="noopener noreferrer">openrag&lt;/a>
+&lt;/strong> — A single-deploy RAG stack built on Langflow and OpenSearch. It handles the integration glue so you don&amp;rsquo;t have to, letting you get a production pipeline up faster.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://pypi.org/project/vector-inspector/0.6.0/" target="_blank" rel="noopener noreferrer">vector-inspector 0.6.0&lt;/a>
+&lt;/strong> — A desktop GUI for poking at your vector databases. Useful for figuring out why your embeddings are weird or why search is slow.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/volcengine/OpenViking" target="_blank" rel="noopener noreferrer">OpenViking&lt;/a>
+&lt;/strong> — A context database for AI agents that thinks in files and folders. It&amp;rsquo;s a structured way to manage an agent&amp;rsquo;s memory and skills for long-running tasks.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/p-e-w/heretic" target="_blank" rel="noopener noreferrer">heretic&lt;/a>
+&lt;/strong> — A tool to automatically strip the built-in censorship from LLM outputs. For when the default safety filters are getting in the way of your specific use case.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/fishaudio/fish-speech" target="_blank" rel="noopener noreferrer">fish-speech&lt;/a>
+&lt;/strong> — An open-source text-to-speech system gunning for SOTA quality. A solid base if you want to build voice features without depending on a proprietary API.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/vectorize-io/hindsight" target="_blank" rel="noopener noreferrer">hindsight&lt;/a>
+&lt;/strong> — An agent memory system designed to learn from past chats. It tackles the problem of making agents actually remember things over time.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/topoteretes/cognee" target="_blank" rel="noopener noreferrer">cognee&lt;/a>
+&lt;/strong> — A lightweight knowledge engine for agent memory that&amp;rsquo;s easy to bolt on. Cuts down the boilerplate for adding persistent memory to your agent workflows.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/browser-use/browser-use" target="_blank" rel="noopener noreferrer">browser-use&lt;/a>
+&lt;/strong> — A tool to make websites programmatically accessible for AI agents. Lets your agent click buttons and read pages, bridging the gap to the live web.&lt;/li>
+&lt;/ul>
+&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://arxiv.org/abs/2603.11099" target="_blank" rel="noopener noreferrer">Graph Tokenization for Bridging Graphs and Transformers&lt;/a>
+&lt;/strong> — A method to turn graph structures into token sequences that Transformers can eat. This lets you use powerful pretrained models on graph tasks like molecular analysis.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://arxiv.org/abs/2603.11137" target="_blank" rel="noopener noreferrer">Scaling Reasoning Efficiently via Relaxed On-Policy Distillation&lt;/a>
+&lt;/strong> — Tweaks on-policy distillation to make training more stable. The goal is better transferring complex reasoning from a big teacher model to a smaller, deployable student.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://aipapersacademy.com/chain-of-continuous-thought/" target="_blank" rel="noopener noreferrer">Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought&lt;/a>
+&lt;/strong> — Replaces discrete &amp;ldquo;chain-of-thought&amp;rdquo; tokens with a continuous latent representation for reasoning. The model can &amp;ldquo;think&amp;rdquo; in a more fluid, internal way before spitting out an answer.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://arxiv.org/abs/2603.11052" target="_blank" rel="noopener noreferrer">Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates&lt;/a>
+&lt;/strong> — A way to measure uncertainty in neural operators that approximate PDE solutions. Critical for trusting these models in scientific computing where confidence matters as much as the prediction.&lt;/li>
+&lt;/ul>
+&lt;h2 id="community-finds">Community Finds&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://artificialanalysis.ai" target="_blank" rel="noopener noreferrer">Benchmarks and comparison of LLM AI models and API hosting providers&lt;/a>
+&lt;/strong> — Artificial Analysis provides standardized, apples-to-apples benchmarks for LLM speed, cost, and performance. It&amp;rsquo;s actual data for choosing a model or provider, not just marketing claims.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://pypi.org/project/pentatonic-agent-events/0.2.0b1/" target="_blank" rel="noopener noreferrer">pentatonic-agent-events 0.2.0b1&lt;/a>
+&lt;/strong> — An observability SDK for LLM apps that tracks token usage, tool calls, and chat histories. It&amp;rsquo;s the kind of monitoring you need to not fly blind in production.&lt;/li>
+&lt;/ul>
+&lt;h2 id="todays-synthesis">Today&amp;rsquo;s Synthesis&lt;/h2>
+&lt;p>Here&amp;rsquo;s a no-nonsense stack for building an observable, cost-efficient RAG system. Start with &lt;strong>BitNet&lt;/strong> to run a heavily compressed model, keeping your inference costs and latency low. Plug that into &lt;strong>openrag&lt;/strong> to get a RAG pipeline running without the usual integration headache. Once it&amp;rsquo;s live, instrument it with &lt;strong>pentatonic-agent-events&lt;/strong> to track token burn and tool usage. Finally, use &lt;strong>vector-inspector&lt;/strong> to visually debug your vector DB when retrieval quality inevitably gets weird. This combo covers you from model efficiency through pipeline orchestration to operational debugging.&lt;/p></description></item></channel></rss>
