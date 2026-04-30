@@ -304,16 +304,12 @@ def rmi_news() -> list[dict]:
     return _rss_feed("https://rmi.org/feed/")
 
 
-def arpa_e_news() -> list[dict]:
-    return _rss_feed("https://arpa-e.energy.gov/rss.xml")
-
-
 def doe_news() -> list[dict]:
     return _rss_feed("https://www.energy.gov/rss.xml")
 
 
 def heatmap_news() -> list[dict]:
-    return _rss_feed("https://heatmap.news/feed")
+    return _rss_feed("https://heatmap.news/feeds/feed.rss")
 
 
 def greentownlabs_jobs() -> list[dict]:
@@ -372,7 +368,6 @@ ALL_SOURCES: dict[str, Any] = {
     "cleantechnica": cleantechnica,
     "canary_media": canary_media,
     "rmi_news": rmi_news,
-    "arpa_e_news": arpa_e_news,
     "doe_news": doe_news,
     "heatmap_news": heatmap_news,
     "greentownlabs_jobs": greentownlabs_jobs,
