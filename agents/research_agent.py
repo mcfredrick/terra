@@ -19,9 +19,6 @@ WATCHLIST_FILE = Path(__file__).parent.parent / "watchlist.txt"
 OUTPUT_FILE = Path("/tmp/research.json")
 BUSINESS_KEYWORDS = {"funding", "valuation", "ipo", "acquisition", "acquires", "merger", "raises", "series a", "series b", "series c", "grant", "subsidy", "incentive"}
 
-# Sources stored as-is without LLM extraction or business-news filtering.
-PASSTHROUGH_SOURCES = {"greentownlabs_jobs"}
-
 SYSTEM_PROMPT = """You are a technical research assistant for engineers exploring climate tech and sustainability.
 
 Extract technically relevant items from the provided content. Focus on:
@@ -240,11 +237,6 @@ def main() -> None:
     for source_name, items in raw_sources.items():
         if not items:
             results[source_name] = []
-            continue
-
-        if source_name in PASSTHROUGH_SOURCES:
-            results[source_name] = items
-            print(f"  {source_name}: {len(items)} items (passthrough)", file=sys.stderr)
             continue
 
         print(f"Processing {source_name} with LLM...", file=sys.stderr)

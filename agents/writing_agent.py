@@ -199,31 +199,12 @@ def _normalize_formatting(body: str) -> str:
     return body
 
 
-JOBS_SOURCES = {"greentownlabs_jobs"}
-
-
 def collect_all_items(research: dict) -> list[dict]:
     items = []
     for key, value in research.items():
-        if key in JOBS_SOURCES:
-            continue
         if isinstance(value, list):
             items.extend(value)
     return items
-
-
-def _build_jobs_section(jobs: list[dict]) -> str:
-    lines = ["## Climate Tech Jobs"]
-    for job in jobs[:10]:
-        title = job.get("title", "")
-        url = job.get("url", "")
-        text = job.get("text", "")
-        if title and url:
-            line = f"- **[{title}]({url})**"
-            if text:
-                line += f" — {text}"
-            lines.append(line)
-    return "\n".join(lines)
 
 
 def _collect_sorted_items(research: dict) -> list[dict]:
@@ -511,16 +492,9 @@ def main() -> None:
         print(f"  Revising {len(issues)} issue(s)...", file=sys.stderr)
         body = run_revision(body, issues, model)
 
-    jobs = research.get("greentownlabs_jobs", [])
-    if jobs:
-        print(f"Appending {len(jobs)} job listing(s)...", file=sys.stderr)
-        body += "\n\n" + _build_jobs_section(jobs)
-
     # Build front matter
     post_date_fmt = post_date_obj.strftime("%B %-d, %Y")
     tags = extract_tags(all_items)
-    if jobs:
-        tags = sorted(set(tags) | {"jobs"})
     description = build_description(all_items)
 
     holiday_fields = ""
