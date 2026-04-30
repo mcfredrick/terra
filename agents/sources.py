@@ -17,7 +17,8 @@ TIMEOUT = 20
 CLIMATE_KEYWORDS = re.compile(
     r"\b(solar|wind|carbon|climate|energy|battery|grid|renewable|sustainable|"
     r"agriculture|water|biodiversity|ocean|emissions|decarboniz|electr|"
-    r"hydrogen|geotherm|biomass|conservation|ecosystem)\b",
+    r"hydrogen|geotherm|biomass|conservation|ecosystem|methane|perovskite|"
+    r"microgrid|electrolysis|pyrolysis|heat.pump|fuel.cell)\b",
     re.IGNORECASE,
 )
 
@@ -78,6 +79,14 @@ def _quality_score(repo: dict) -> float:
     return min(score, 1.0)
 
 
+def _rss_feed(url: str, limit: int = 10) -> list[dict]:
+    feed = feedparser.parse(url)
+    return [
+        {"title": e.get("title", ""), "url": e.get("link", ""), "text": e.get("summary", "")}
+        for e in feed.entries[:limit]
+    ]
+
+
 def arxiv_climate() -> list[dict]:
     """Fetch recent papers from ArXiv categories relevant to climate engineering."""
     results = []
@@ -114,7 +123,8 @@ def github_climate_tools(since_days: int = 30, score_threshold: float = 0.3) -> 
     topics = [
         "solar-energy", "wind-energy", "carbon-footprint", "climate-model",
         "energy-storage", "smart-grid", "renewable-energy", "electric-vehicle",
-        "battery", "carbon-accounting",
+        "battery", "carbon-accounting", "climate-tech", "energy-transition",
+        "direct-air-capture", "carbon-removal", "demand-response", "heat-pump",
     ]
 
     gh_token = os.environ.get("GH_TOKEN", "")
@@ -282,6 +292,73 @@ def carbon_brief() -> list[dict]:
     return results
 
 
+def cleantechnica() -> list[dict]:
+    return _rss_feed("https://cleantechnica.com/feed/")
+
+
+def canary_media() -> list[dict]:
+    return _rss_feed("https://www.canarymedia.com/rss")
+
+
+def rmi_news() -> list[dict]:
+    return _rss_feed("https://rmi.org/feed/")
+
+
+def arpa_e_news() -> list[dict]:
+    return _rss_feed("https://arpa-e.energy.gov/rss.xml")
+
+
+def doe_news() -> list[dict]:
+    return _rss_feed("https://www.energy.gov/rss.xml")
+
+
+def heatmap_news() -> list[dict]:
+    return _rss_feed("https://heatmap.news/feed")
+
+
+def greentownlabs_jobs() -> list[dict]:
+    """Fetch remote job listings from Greentown Labs member companies via Consider API."""
+    import httpx as _httpx
+
+    try:
+        r = _httpx.post(
+            "https://jobs.greentownlabs.com/api-boards/search-jobs",
+            json={
+                "meta": {"size": 200},
+                "board": {"id": "greentown-labs", "isParent": True},
+                "query": {},
+                "grouped": False,
+                "parentSlug": "greentown-labs",
+            },
+            headers={
+                "User-Agent": BOT_USER_AGENT,
+                "Accept": "application/json",
+                "Referer": "https://jobs.greentownlabs.com/jobs",
+            },
+            timeout=TIMEOUT,
+        )
+        r.raise_for_status()
+    except Exception as e:
+        print(f"  greentownlabs_jobs fetch failed: {e}", file=sys.stderr)
+        return []
+
+    results = []
+    seen: set[str] = set()
+    for job in r.json().get("jobs", []):
+        if not job.get("remote"):
+            continue
+        url = job.get("applyUrl") or job.get("url", "")
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        company = job.get("companyName", "")
+        depts = ", ".join(job.get("departments", [])) if job.get("departments") else ""
+        text = " — ".join(filter(None, [company, depts, "Remote"]))
+        results.append({"title": job.get("title", "").strip(), "url": url, "text": text})
+
+    return results[:15]
+
+
 ALL_SOURCES: dict[str, Any] = {
     "arxiv_climate": arxiv_climate,
     "arxiv_sustainability": arxiv_sustainability,
@@ -292,4 +369,11 @@ ALL_SOURCES: dict[str, Any] = {
     "iea_news": iea_news,
     "nrel_news": nrel_news,
     "carbon_brief": carbon_brief,
+    "cleantechnica": cleantechnica,
+    "canary_media": canary_media,
+    "rmi_news": rmi_news,
+    "arpa_e_news": arpa_e_news,
+    "doe_news": doe_news,
+    "heatmap_news": heatmap_news,
+    "greentownlabs_jobs": greentownlabs_jobs,
 }

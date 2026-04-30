@@ -16,7 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from sources import ALL_SOURCES, github_search_tools
+from sources import ALL_SOURCES, github_climate_tools as github_search_tools
 
 # Repos to explicitly check for in github_search results (validation targets)
 VALIDATION_TARGETS = [
