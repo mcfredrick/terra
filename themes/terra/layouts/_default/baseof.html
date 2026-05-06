@@ -15,6 +15,7 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+  {{ partial "kofi.html" . }}
   <script>
     // Copy buttons on all pre blocks
     var ICON_COPY = '<svg viewBox="0 0 24 24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
@@ -80,6 +81,7 @@
       html.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);
       this.textContent = next === 'dark' ? 'Day' : 'Night';
+      if (typeof drawKofi === 'function') drawKofi();
     });
     (function() {
       var t = document.documentElement.getAttribute('data-theme');

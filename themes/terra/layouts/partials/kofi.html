@@ -1,0 +1,16 @@
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js' defer></script>
+<script>
+  function drawKofi() {
+    if (typeof kofiWidgetOverlay === 'undefined') return;
+    var s = getComputedStyle(document.documentElement);
+    var bg = s.getPropertyValue('--surface').trim() || '#162638';
+    var fg = s.getPropertyValue('--text').trim() || '#c5dce8';
+    kofiWidgetOverlay.draw('dayjobdev', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Support me',
+      'floating-chat.donateButton.background-color': bg,
+      'floating-chat.donateButton.text-color': fg
+    });
+  }
+  window.addEventListener('load', drawKofi);
+</script>
