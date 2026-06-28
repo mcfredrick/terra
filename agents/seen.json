@@ -1,234 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.24950",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25016",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25447",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25559",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25890",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25172",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24816",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24894",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2410.02082",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2411.14721",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24950",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24771",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24897",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25187",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.24939",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25016",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25473",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25738",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/pvlib/pvlib-python",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/NatLabRockies/sup3r",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/OpenFAST/openfast",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/turbinesFoam/turbinesFoam",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/Energinet-SimTools/MTB",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/NLRWindSystems/WOMBAT",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/OpenSourceAWE/KiteControllers.jl",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/hubblo-org/scaphandre",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/mlco2/codecarbon",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/green-coding-solutions/green-metrics-tool",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/GreenScheduler/cats",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/ESCOMP/CESM",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/xgcm/xgcm",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/climlab/climlab",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/CliMT/climt",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://github.com/brian-rose/ClimateLaboratoryBook",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.cambridge.org/core/journals/laser-and-particle-beams/article/road-map-to-clean-energy-using-laser-beam-ignition-of-boronhydrogen-fusion/8BE057DC1BC9E0A588FB3ABAA993078C",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://phys.org/news/2017-05-iceland-drills-km-volcano-energy.html",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.nytimes.com/interactive/2018/04/23/business/energy-environment/big-windmills.html",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.nsenergybusiness.com/news/oklo-launches-aurora-plant/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=26412624",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "http://rameznaam.com/2019/04/02/the-third-phase-of-clean-energy-will-be-the-most-disruptive-yet/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.gatesnotes.com/Energy/Clean-Hydrogen",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2019-08-02/germany-turns-to-hydrogen-in-quest-for-clean-energy-economy",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=15132145",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=32324592",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=18332012",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=20015037",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=33895139",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.carbonbrief.org/amoc-is-global-warming-tipping-key-atlantic-ocean-currents-towards-collapse/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.carbonbrief.org/state-of-the-climate-strong-el-nino-puts-2026-on-track-for-second-warmest-year/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.carbonbrief.org/clean-energy-pushes-fossil-fuel-power-into-reverse-for-first-time-ever/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.carbonbrief.org/qa-how-the-uk-government-aims-to-break-link-between-gas-and-electricity-prices/",
-      "date": "2026-04-29"
-    },
-    {
-      "url": "https://www.carbonbrief.org/iran-war-eu-strategy-sets-out-44-actions-to-limit-fossil-fuel-price-shocks/",
-      "date": "2026-04-29"
-    },
-    {
       "url": "https://arxiv.org/abs/2604.26424",
       "date": "2026-04-30"
     },
@@ -5627,6 +5399,30 @@
     {
       "url": "https://www.canarymedia.com/articles/heat-pumps/heat-pumps-air-conditioners",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
+      "date": "2026-06-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
+      "date": "2026-06-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/06/26/metered-electricity-demand-in-the-new-york-iso-falls-midday-because-of-small-scale-solar/",
+      "date": "2026-06-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/06/27/intersolar-europe-2026-key-takeaways/",
+      "date": "2026-06-28"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-have-a-farmland-problem-too",
+      "date": "2026-06-28"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/qa/hanson-wood-rwe",
+      "date": "2026-06-28"
     }
   ]
 }
