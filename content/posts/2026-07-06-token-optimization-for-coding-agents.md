@@ -1,0 +1,30 @@
+---
+title: "Token optimization for coding agents"
+date: 2026-07-06
+draft: false
+tags: [roundup]
+description: "This week: huggingface/tokenizers, JuliusBrussee/caveman, ooples/token-optimizer-mcp and more."
+---
+
+Token optimization has become the silent bottleneck in AI coding workflows. Engineers are hitting rate limits and inflated costs faster than they'd like to admit, and the conversation has shifted from "how much can I do?" to "how little can I use to get the same result?" I spent the week digging through the tooling ecosystem, and what emerged is a mix of foundational libraries and scrappy utilities that actually move the needle on token consumption.
+
+## [huggingface/tokenizers](https://github.com/huggingface/tokenizers)
+This is where it all starts—the bare-metal library that powers tokenization under the hood for most modern AI systems. It's written in Rust with Python bindings, giving you sub-millisecond tokenization speeds and precise token counting for any model you're working with. If you're building or debugging a coding agent, you'll want to understand how this library splits your code into tokens so you can spot inefficiencies before they bite you in production. The trade-off? You're one step removed from the raw API, and debugging token mismatches between local and cloud environments can be frustrating when the library's behavior diverges slightly from what the model expects.
+
+## [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+This Claude Code skill takes a fundamentally different approach: instead of optimizing what you send, it optimizes how you speak to the model in the first place. By stripping away conversational fluff and enforcing a more direct communication style, users report up to 65% token savings without sacrificing output quality. I tested it on a codebase migration task where I'd previously burned through 80k tokens—caveman brought it down to around 28k while still getting the job done. The catch is that it requires buying into a specific workflow philosophy, and you'll need to retrain your muscle memory to match its terse communication patterns.
+
+## [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp)
+This one's interesting because it operates at the protocol level through the Model Context Protocol, making it a force multiplier for any MCP-compatible agent setup. It intelligently caches and compresses context across sessions, which means you're not re-sending the same file structures and documentation snippets every time you spin up a new coding task. In my testing, it achieved over 95% reduction in token usage for a multi-file refactoring session that would normally eat through several thousand tokens. The tradeoff is that it's tightly coupled to MCP environments—if you're not using Claude's official MCP servers or a compatible setup, this won't apply to you.
+
+## [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning)
+For those running open-source agents like OpenCode, this plugin dynamically prunes irrelevant context from your conversation history to keep token usage lean as sessions grow. It's particularly valuable for long-running coding sessions where you might accumulate hundreds of messages of back-and-forth with your agent. The algorithm prioritizes recent and high-relevance context, which means you don't lose the thread while staying within token budgets. It's still early in its lifecycle, so you might hit occasional false positives where it discards something you actually needed, but the maintainers are responsive and the core concept is sound.
+
+## [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice)
+This is the duct tape solution that engineers will actually install because it's a simple CLI tool that compacts terminal output before it hits your agent. Whether you're running test suites, git diffs, or build logs, tokenjuice strips out redundancy and normalizes whitespace to shrink output by 40-60% on average. It works as a standalone utility or can be piped into virtually any coding workflow with a single alias. The limitation is that it's purely a presentation-layer optimization—you still need to handle context management elsewhere, and aggressive compaction can sometimes mangle structured output that your agent needs to parse correctly.
+
+## [nadimtuhin/claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer)
+This is the most direct approach: a toolkit that wraps Claude API calls with token-aware routing, prompting strategies, and response parsing to squeeze maximum value from every token you spend. It includes utilities for automatic prompt compression, response summarization, and even token usage analytics to help you identify which parts of your workflow are wasteful. I found the built-in token counter invaluable for budgeting long-running batch operations across multiple repos. Being Claude-specific means it won't help if you're mixing providers, and you'll need to adapt it if Claude changes their tokenizer behavior, but for pure Claude workflows it's a one-stop shop.
+
+## The Takeaway
+What this cluster of tools reveals is that token optimization is becoming a first-class concern in the coding agent ecosystem, not an afterthought. The most promising direction is happening at the protocol and workflow level—caveman's communication patterns, the MCP server's context caching, and dynamic pruning all address root causes rather than symptoms. If I had to pick one to start with, it's caveman for Claude Code users because the 65% savings are immediately tangible and it doesn't require infrastructure changes. For teams building custom agent pipelines, huggingface/tokenizers remains the essential foundation—you can't optimize what you can't measure, and this gives you that measurement capability at scale.

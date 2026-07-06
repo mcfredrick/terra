@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.04289",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04228",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.05052",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.10136",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04796",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04821",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04707",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04102",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04228",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04289",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04375",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04296",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04821",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04796",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04788",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://github.com/Daminoup88/WattSeal",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://github.com/open-risk/awesome-sustainable-finance",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.carbonbrief.org/china-briefing-30-april-2026-fossil-fuel-strict-controls-el-nino-approaches-why-cleantech-exports-have-surged/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/landking-makes-electric-trucks-look-inevitable-at-auto-china/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/coal-distributions-for-non-electric-power-use-decline-in-the-south/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/commercial-electricity-sales-have-soared-in-virginia-driven-by-data-centers/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/new-analysis-reveals-massive-water-use-by-texas-power-plants/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/ai-data-centres-need-big-batteries-but-lithium-isnt-fit-for-purpose/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/viennas-hydrogen-bus-failure-is-a-warning-to-transit-agencies/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/06/better-flight-planning-can-cut-fuel-contrail-warming/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/clean-industry/industry-fuel-shocks-electrifying",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/green-steel/europes-quest-for-green-steel",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://rmi.org/the-world-wastes-more-gas-each-year-than-the-strait-of-hormuz-supplies/",
-      "date": "2026-05-07"
-    },
-    {
-      "url": "https://heatmap.news/politics/local-opposition-data-center-cancellations",
-      "date": "2026-05-07"
-    },
-    {
       "url": "https://arxiv.org/abs/2605.05952",
       "date": "2026-05-08"
     },
@@ -5715,6 +5599,30 @@
     {
       "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-could-solve-one-of-solars-biggest-problems-in-the-philippines/",
       "date": "2026-07-05"
+    },
+    {
+      "url": "https://github.com/huggingface/tokenizers",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/ooples/token-optimizer-mcp",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/Opencode-DCP/opencode-dynamic-context-pruning",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/vincentkoc/tokenjuice",
+      "date": "2026-07-06"
+    },
+    {
+      "url": "https://github.com/nadimtuhin/claude-token-optimizer",
+      "date": "2026-07-06"
     }
   ]
 }
