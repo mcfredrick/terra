@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/wlcrs/huawei_solar",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://github.com/Giorgio866/lumina-energy-card",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://github.com/mtrossbach/noah-mqtt",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://github.com/CharlesGillanders/homeassistant-alphaESS",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://github.com/Matthew1471/Enphase-API",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=21024358",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=33999229",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=27335359",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12906627",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=38144602",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=1676550",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=14232198",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=13259437",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=37480043",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/08/chinas-electric-concrete-mixer-boom-is-a-warning-to-slow-heavy-truck-markets/",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/08/irelands-energy-poverty-problem-needs-flexible-electric-heat-not-fabric-first-delay/",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/08/ryanairs-global-emissions-are-now-50-higher-than-in-2019-the-largest-increase-worldwide/",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/balcony-solar-bill-dies-illinois",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/wind/wind-projects-stalled-pentagon-permitting",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/maine-community-solar-going-bust",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/wind/which-states-most-wind-solar-power",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/land-use/resident-campaign-fails-ohio-renewables-ban",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://rmi.org/solving-the-gridlock-americas-electric-supply-chain-opportunity/",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://heatmap.news/energy/pjm-new-jersey-pennsylvania",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://heatmap.news/am/trump-wind-blowback",
-      "date": "2026-05-09"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/qa/nick-loris-c3-solutions",
-      "date": "2026-05-09"
-    },
-    {
       "url": "https://www.carbonbrief.org/qa-how-countries-got-the-global-net-zero-shipping-deal-back-on-track/",
       "date": "2026-05-10"
     },
@@ -5747,6 +5639,226 @@
     {
       "url": "https://job-boards.eu.greenhouse.io/overstory/jobs/4908204101",
       "date": "2026-07-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05599",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05640",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05718",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05720",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05729",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05782",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05843",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05877",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05934",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06111",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06192",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06416",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06425",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06459",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05440",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05658",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05645",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05627",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05802",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06427",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05607",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06129",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05439",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05456",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05846",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06225",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06497",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.07795",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.09173",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05599",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05640",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05718",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05720",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05729",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05782",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05843",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05877",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05934",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/TypQxQ/Sigenergy-Local-Modbus",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/pkuehnel/TeslaSolarCharger",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://github.com/pvlib/pvanalytics",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/cleanpeak-energy-western-sydney-international-airport-partner-on-100-renewable-electricity-deal/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/leapmotor-b03x-orders-open-in-europe-a-new-benchmark-in-the-urban-crossover-segment/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/floating-solar-pv-to-survive-3-5-meter-waves/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/vertical-solar-pv-yes-says-vancouver/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/in-latest-pro-polluter-move-trump-pardons-mechanics-that-tampered-with-vehicle-pollution-controls-for-trucks/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/epa-proposes-air-pollution-exemption-deal-for-data-centers/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/sierra-club-partners-oppose-trump-epas-weakening-of-vehicle-pollutant-standards/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/07/permitting-politics-diminish-solar-wind-power-in-the-us/",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/europe-scale",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/tesla-comeback-europe-china",
+      "date": "2026-07-08"
+    },
+    {
+      "url": "https://heatmap.news/am/western-states-grid",
+      "date": "2026-07-08"
     }
   ]
 }
