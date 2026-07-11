@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.09086",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09318",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09358",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08701",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25608",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09642",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2505.22873",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09086",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09318",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09358",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09367",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09125",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/34-northvolt-sized-battery-factories-could-be-lost-if-eu-scales-back-ev-targets-study/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/introducing-ford-energy/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/the-ocean-is-not-a-server-rack-panthalassa-peter-thiel-and-wave-powered-ai-compute/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/cross-country-road-trip-in-an-old-tesla-model-3/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/370-tesla-semi-trucks-ordered/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/11/renewable-energy-puts-money-in-the-pockets-of-struggling-farmers/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/carbon-free-buildings/software-avalonbay-parity-nyc",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/geothermal/harness-oil-gas-wells-produce-geothermal-energy",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://rmi.org/a-fast-path-to-affordability-understanding-the-benefits-of-energy-only-resources-in-pjm/",
-      "date": "2026-05-12"
-    },
-    {
-      "url": "https://heatmap.news/climate/microsoft-hourly-matching",
-      "date": "2026-05-12"
-    },
-    {
       "url": "https://arxiv.org/abs/2605.11132",
       "date": "2026-05-13"
     },
@@ -6315,6 +6227,114 @@
     {
       "url": "https://heatmap.news/am/global-nuclear-2036",
       "date": "2026-07-10"
+    },
+    {
+      "url": "https://github.com/ffunes/Marstek-Venus-Energy-Manager",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://github.com/NatLabRockies/sup3r",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://github.com/gwittebolle/claude-carbon",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/chinese-ev-gets-to-north-america-with-a-little-help-from-stellantis/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/structural-shift-continues-in-australias-car-market-june-update/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/world-bank-funds-more-rooftop-solar-in-india-clean-energy-in-pakistan/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/sierra-club-wisconsin-mea-file-lawsuit-after-state-regulators-abandon-required-environmental-review-for-port-washington-data-center/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/trump-administration-attempts-to-eliminate-habitat-protections-for-endangered-species/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/green-10s-asks-to-the-european-commission-president-ursula-von-der-leyen/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/a-tour-of-the-jackery-energy-storage-factory-product-testing-lab-cleantechnica-field-trip/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/xpeng-robotaxi-employee-tests-tesla-competition-us/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/as-byd-cancels-introduces-chinese-models-global-product-diverges/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/10/volkswagen-may-discontinue-up-to-half-its-current-models/",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.energy.gov/srs/savannah-river-site-history-1990-present",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.energy.gov/srs/savannah-river-site-history-1950-1989",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://heatmap.news/daily/google-amazon-microsoft-2026-data",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://heatmap.news/energy/new-york-july-4-heat-wave",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://heatmap.news/sparks/virginia-dominion-electricity-price",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://heatmap.news/am/pjm-record-demand",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://jobs.lever.co/runlaminar/ab45ee40-81f3-465d-b6f4-41e31085b22b?lever-source%5B%5D=jobs.greentownlabs.com",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/business-development-manager-at-rheom-materials-4437099535",
+      "date": "2026-07-11"
     }
   ]
 }
