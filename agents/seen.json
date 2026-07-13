@@ -1,214 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.11132",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11140",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11174",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10948",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10950",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10956",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.10958",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11531",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11639",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11968",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.03669",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12443",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11132",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11140",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11174",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11957",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12443",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11093",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.11261",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/12/high-stakes-how-much-ev-investment-is-at-risk-across-europe/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/12/hydrogen-transportation-after-hvs-narrow-niches-big-subsidies-long-pilots/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/12/balcony-solar-advances-in-colorado-as-new-legislation-removes-barriers/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/12/tesla-sold-only-173-rwd-cybertrucks-in-two-years/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/12/chinese-evs-the-us-market-where-is-this-going/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/heat-pumps/amazon-game-changing-heat-pump",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://rmi.org/improving-energy-transition-assessments-with-regional-pathways/",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://heatmap.news/ideas/climeworks-ai-carbon-removal",
-      "date": "2026-05-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12728",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12779",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13061",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13355",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13529",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13417",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.10305",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.16429",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13390",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12728",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.12779",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13061",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13355",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13390",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13529",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/13/wave-energys-hardest-problem-is-not-the-waves-it-is-maintenance/",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/13/alsym-partners-with-juniper-for-500-mwh-of-sodium-ion-grid-scale-battery-storage/",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/13/e1-billion-to-be-invested-in-german-electric-truck-charging/",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/13/tesla-is-rolling-out-more-unsupervised-robotaxis/",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/mid-sized-solar-electricity-bills-pennsylvania",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://rmi.org/tackling-the-worlds-surging-cooling-demand/",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://heatmap.news/am/south-korean-southern",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://eh2.com/careers?gh_jid=4694390005",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://eh2.com/careers?gh_jid=4695023005",
-      "date": "2026-05-14"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/matterworks/9b236ffe-94ab-4f63-9605-324600214f63-9605-324600214f91?utm_source=jobs.greentownlabs.com",
-      "date": "2026-05-14"
-    },
-    {
       "url": "https://arxiv.org/abs/2605.14043",
       "date": "2026-05-15"
     },
@@ -6335,6 +6127,202 @@
     {
       "url": "https://www.linkedin.com/jobs/view/business-development-manager-at-rheom-materials-4437099535",
       "date": "2026-07-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08864",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08899",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08942",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09045",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09058",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09070",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09127",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09187",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09194",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09249",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09275",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09276",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09297",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09357",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08947",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.04662",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.16238",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08849",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08920",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08790",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08803",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08902",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08781",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09039",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09137",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.23964",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08864",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08899",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.08942",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09045",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09058",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09070",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09127",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09187",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09194",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09249",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09275",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/12/teslas-profit-per-vehicle-has-been-dropping-significantly/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/12/head-of-iea-roasts-europe-for-slow-electrification/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/12/china-about-to-get-156-new-electric-vehicle-models/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/11/ford-ev-universal-electric-pickup-truck-phev-europe/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/11/two-progressive-representatives-chart-a-course-forward-for-america/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/11/energy-intelligence-platform-florion-launched-to-help-south-african-businesses-navigate-a-new-era-of-energy-risk-opportunity/",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/every-electric-nyc-renters-ac-grid",
+      "date": "2026-07-13"
     }
   ]
 }
