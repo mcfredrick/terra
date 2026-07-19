@@ -1,218 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.16634",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16683",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16765",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16794",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.17603",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18477",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.17493",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.06398",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.04006",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16634",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16683",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16765",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16794",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.17186",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.17899",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18552",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18588",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://github.com/MTES-MCT/ecobalyse",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/19/electricity-generation-from-solar-could-exceed-coal-in-ercot-for-the-first-time-in-2026/",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/18/nlr-battery-innovation-awarded-nasas-invention-of-the-year/",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/18/scientists-discover-way-to-leverage-high-energy-sunlight-for-fuel-production/",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/18/nlr-partners-with-colorado-school-of-mines-and-university-of-utah-to-scale-up-us-critical-minerals-capacity/",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/18/australias-big-miners-show-the-way-with-renewables/",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/how-big-can-solar-go",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/nuclear/x-energy-gets-federal-approval-reactors",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://eh2.com/careers?gh_jid=4695673005",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/ml-engineer-computer-vision-at-gaia-ai-4412585377",
-      "date": "2026-05-19"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.04452",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.03924",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19380",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19124",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19730",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20169",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19056",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20136",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.18831",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19677",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19380",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.19056",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20136",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20169",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2201.10895",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.20038",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://github.com/pkueknel/TeslaSolarCharger",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/20/hydrostor-underground-pumped-hydro-ontario-storage-plan-runs-into-the-bess-benchmark/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/19/data-center-server-energy-use-grows-across-the-commercial-building-stock/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/19/how-high-performance-computing-and-ai-accelerated-applied-energy-research-in-2025/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/19/new-atlas-will-catalog-proteins-that-bind-to-rare-earth-elements/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/19/poland-bought-hydrogen-buses-then-the-fuel-bills-arrived/",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electrification/bay-area-exempt-gas-water-heater",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://heatmap.news/energy/span-utility-ai",
-      "date": "2026-05-20"
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/overstory/jobs/4871257101",
-      "date": "2026-05-20"
-    },
-    {
       "url": "https://arxiv.org/abs/2605.21153",
       "date": "2026-05-21"
     },
@@ -6899,6 +6687,66 @@
     {
       "url": "https://solar-materials-gmbh.jobs.personio.de/job/2715388",
       "date": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/hubblo-org/scaphandre",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=26412624",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "http://cognitivemedium.com/dac-notes",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/18/offshore-wind-china-reducing-costs-new-vessels/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/18/philippines-logistics-firm-sees-swappable-battery-scooters-as-the-next-milestone-in-last-mile-deliveries/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/18/every-day-in-every-way-attribution-science-is-getting-better-better/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https://heatmap.news/adaptation/east-coast-smoke",
+      "date": "2026-07-19"
+    },
+    {
+      "url": "https/heatmap.news/am/puerto-rico-water",
+      "date": "2026-07-19"
     }
   ]
 }
