@@ -1,70 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/mobility-team/mobility",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://www.carbonbrief.org/guest-post-how-cmip7-will-shape-the-next-wave-of-climate-science/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/23/have-you-seen-a-paywall-recently-support-cleantech-media-here/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/tilting-at-windmills/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/geely-ev-sales-down-in-april-but-zeekr-poppin/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/drone-strikes-nuclear-power-plant-in-uae-this-could-get-bad/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/nio-financials-up-huge-year-over-year-but-market-not-happy/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/mozilla-foundation-condemns-data-collection-by-cars/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/electric-trucks-us-autonomous-pickups/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/floating-solar-comes-to-desantistan/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/05/22/buying-electric-vehicles-supports-good-jobs/",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://heatmap.news/energy/rhodium-acp-clean-manufacturing",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/qa/duncan-campbell",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e50-los-angeles-smog-transcript",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https.rippling.com/peak-power-careers/jobs/8ce57e8c-c3fa-4f03-bbcd-551a2f165b99",
-      "date": "2026-05-23"
-    },
-    {
-      "url": "https://indeed.com/cmp/Hylio,-Inc./jobs?jk=c6615fa95214cf16",
-      "date": "2026-05-23"
-    },
-    {
       "url": "https://cleantechnica.com/2026/05/23/geothermal-energy-us-hundreds-gigawatts/",
       "date": "2026-05-24"
     },
@@ -6779,6 +6715,162 @@
     {
       "url": "https://heatmap.news/energy/q2-2026-solar-wind-ppas",
       "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18500",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18894",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18903",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.19294",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18653",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18565",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18951",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.19271",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18416",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.19161",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18298",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18590",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18472",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18524",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18420",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18403",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18286",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18500",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18894",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18903",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18653",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18565",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.19271",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.19294",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18951",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18286",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/CliMA/Thermodynamics.jl",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://www.carbonbrief.org/interview-dr-sun-yixian-on-his-new-database-tracking-chinese-climate-leadership",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/22/perovskite-solar-cells-invisible-solar-power-window-glass/",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/21/xpeng-collaborates-with-google-maps-bringing-a-complete-refresh-of-in-car-navigation-and-adas-support-built-into-its-ambitious-new-model-l03/",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/21/isuzu-to-use-swappable-battery-tech-for-yokohamas-garbage-collection-route/",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/21/eu-backs-electrification-to-make-europe-more-secure/",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://heatmap.news/sparks/bnef-data-centers-electricity",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://heatmap.news/am/data-center-electricity",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://heatmap.news/am/eu-carbon-removal",
+      "date": "2026-07-22"
     }
   ]
 }
