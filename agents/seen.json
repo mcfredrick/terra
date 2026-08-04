@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.05534",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05772",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06167",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06016",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06408",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.02415",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05325",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05534",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05772",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06167",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05795",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.05485",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.carbonbrief.org/qa-the-current-state-carbon-dioxide-removal-around-the-world/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/04/under-pressure-hyundai-steel-to-significantly-reduce-emissions-switch-from-gas-to-electric-heaters-at-proposed-louisiana-plant/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/04/low-carbon-steel-credits-in-the-eu-cars-co%E2%82%82-standards/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/04/citing-cleaner-cheaper-alternatives-colorado-regulators-deny-xcel-energys-2-9-billion-gas-system-plan/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/04/byd-adas-warranty-explained-sort-of/",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-cars-starting-take-over-world",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "heatmap.news/am/geothermal-bill-passed",
-      "date": "2026-06-05"
-    },
-    {
-      "url": "https://heatmap.news/daily/energy-entrepreneurship-2026",
-      "date": "2026-06-05"
-    },
-    {
       "url": "https://github.com/ReikanYsora/Helios",
       "date": "2026-06-06"
     },
@@ -6767,6 +6679,138 @@
     {
       "url": "https://heatmap.news/plus/the-fight/hotspots/meta-hyperion-xai-colossus-congress-oversight",
       "date": "2026-08-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00213",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00883",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01546",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01250",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01236",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00379",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.04452",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01222",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00466",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01864",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00241",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.13847",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00879",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01018",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00213",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00379",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00466",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00883",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01018",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01098",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01220",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01222",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01236",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01250",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00133",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/03/blocking-new-imported-inverters-will-cost-america/",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/03/vinfast-debuts-electric-scooter-lineup-and-battery-swapping-network-in-the-philippines/",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/03/us-army-hybrid-ev-autonomous-war-futuristic-harbinger-rheinmetall/",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/clean-concrete-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "url": "https://heatmap.news/sparks/clearway-energy-data-center-gas-solar",
+      "date": "2026-08-04"
     }
   ]
 }
