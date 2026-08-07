@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.06932",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06995",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07099",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06642",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06705",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07208",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07375",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.04991",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.21770",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06932",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06995",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07099",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06642",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06705",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07208",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07375",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06687",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06727",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.06790",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/07/mexico-reaches-5-gigawatts-of-distributed-solar-power/",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/07/waymo-sending-used-ev-batteries-to-community-clean-energy/",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/07/france-electrification-plan-energy-security/",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/pioneering-grid-battery-california",
-      "date": "2026-06-08"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/vice-president-of-software-engineering-at-titan-advanced-energy-solutions-4418280562",
-      "date": "2026-06-08"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.07961",
       "date": "2026-06-09"
     },
@@ -6959,6 +6863,90 @@
     {
       "url": "https://heatmap.news/electric-vehicles/new-electric-vehicle-advancements",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06074",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06341",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06349",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05636",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.04023",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05305",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05387",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05452",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2210.10858",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06074",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06341",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06349",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2210.10858",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06360",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://github.com/ReikanYsora/Helios",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://github.com/ffunes/Omnibattery",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/06/china-unveils-safety-standards-for-autonomous-driving-systems/",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/sponsored/the-missing-link-to-vpp-success-customer-knowledge",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/ford-fathom",
+      "date": "2026-08-07"
+    },
+    {
+      "url": "https/heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
+      "date": "2026-08-07"
     }
   ]
 }
