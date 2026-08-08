@@ -1,110 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.07961",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08062",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08082",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08315",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07697",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07928",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08623",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09364",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.09793",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08563",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07637",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07625",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08062",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07961",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08082",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08315",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07758",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.08475",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2208.00778",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.07912",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/08/150-new-power-plants-the-cost-of-balancing-the-grid-if-the-eu-slashes-ev-targets/",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/08/us-clean-energy-can-now-power-80-million-homes/",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/08/stellantis-gets-its-hands-free-door-to-door-driving-partner-wayve/",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/ev-charging/ev-helps-power-appliances-grid",
-      "date": "2026-06-09"
-    },
-    {
-      "url": "https://heatmap.news/energy/hawaii-electricity-bills",
-      "date": "2026-06-09"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.10426",
       "date": "2026-06-10"
     },
@@ -6947,6 +6843,38 @@
     {
       "url": "https/heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
       "date": "2026-08-07"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/08/supercritical-co2-carbon-capture-power-cycles/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/08/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-1-asia/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electric-vehicles/can-fords-new-electric-truck-hit-the-sweet-spot",
+      "date": "2026-08-08"
+    },
+    {
+      "url": "https://heatmap.news/energy/amazon-gw-ranch",
+      "date": "2026-08-08"
     }
   ]
 }
