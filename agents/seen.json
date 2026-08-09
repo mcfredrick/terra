@@ -1,118 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.10426",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10589",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10883",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10923",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10600",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10544",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10139",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10144",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10045",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10426",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10589",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10883",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10923",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10600",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10201",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10407",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/09/gm-empower-event-gm-announces-sodium-ion-grid-scale-battery-storage-developed-in-the-us/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/09/gm-activates-vehicle-to-grid-v2g-capability-for-existing-customers-with-no-new-hardware-required/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/09/solar-storage-provide-over-90-of-all-new-power-added-to-the-u-s-grid-in-q1-despite-headwinds-in-washington/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/09/16-utah-cities-choose-to-opt-in-to-groundbreaking-clean-energy-program-to-bring-100-clean-energy-to-grid/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/09/gm-energy-pass-one-universal-interface-for-public-charging/",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/transmission/software-firm-grid-enhancing-tech",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/qcells-solar-plant-double-capacity",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://heatmap.news/am/tennessee-nuclear-fusion",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://heatmap.news/carbon-removal/greenhouse-gas-protocol-protest",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://heatmap.news/am/wind-solar-safe-harbor",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://heatmap.news/daily/sunzia-chpe",
-      "date": "2026-06-10"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.11327",
       "date": "2026-06-11"
     },
@@ -6875,6 +6763,26 @@
     {
       "url": "https://heatmap.news/energy/amazon-gw-ranch",
       "date": "2026-08-08"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+      "date": "2026-08-09"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+      "date": "2026-08-09"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/08/huawei-scales-ev-platform-deliveries-as-automated-driving-partnerships-expand-across-china/",
+      "date": "2026-08-09"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/07/rd-100-awards-honor-4-nlr-innovations/",
+      "date": "2026-08-09"
+    },
+    {
+      "url": "https://heatmap.news/climate/spokane-fires-smoke",
+      "date": "2026-08-09"
     }
   ]
 }
