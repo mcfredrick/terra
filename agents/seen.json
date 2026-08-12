@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.carbonbrief.org/analysis-solar-overtakes-gas-power-in-asia-for-first-time-ever/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/uk-sprints-forward-with-grid-connections-for-700-clean-energy-projects/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/new-method-turns-ocean-water-into-drinking-water-without-waste/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/largest-wind-farm-in-the-united-states-slated-to-begin-commercial-operations/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/yup-us-solar-growth-hurting-from-solar-permitting-delays/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/12/hawaii-university-nearly-100-solar-powered/",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/ai-energy-gas-turbines-space-underwater",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/spotlight/ai-data-centers-water-usage",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/hotspots/data-centers-texas-miller-tucker",
-      "date": "2026-06-13"
-    },
-    {
-      "url": "https://heatmap.news/sparks/trump-offshore-wind-appeal",
-      "date": "2026-06-13"
-    },
-    {
       "url": "https://github.com/JGCRI/hector",
       "date": "2026-06-14"
     },
@@ -6775,6 +6727,150 @@
     {
       "url": "https://heatmap.news/plus/the-fight/hotspots/michigan-data-center-referendum",
       "date": "2026-08-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10332",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10746",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10754",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10825",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09948",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09957",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09959",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09966",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09970",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09971",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.09972",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10022",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10277",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10645",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10399",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10003",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11125",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10332",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10454",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10645",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10729",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10746",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10754",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10825",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.10921",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/12/germany-6-gw-hydrogen-reservations-demand/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/11/computing-facilities-can-save-big-and-keep-cool-by-looking-underground/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/11/arcfox-goes-battery-swapping-with-the-help-of-catl/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/11/acmobility-sets-up-chargers-supporting-public-transport-in-the-philippines/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/11/ai-data-center-electricity-demand-us-grid/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/solar-on-storage-units-illinois",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/puerto-rico-trump-admin-battery-project",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/reservoir-heat-pump-water-heater",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://heatmap.news/adaptation/subway-heat-jack-klein",
+      "date": "2026-08-12"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/tiny-nuclear-hype-cycle",
+      "date": "2026-08-12"
     }
   ]
 }
