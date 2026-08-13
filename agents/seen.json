@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/JGCRI/hector",
-      "date": "2026-06-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
-      "date": "2026-06-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/13/aviation-fuel-demand-doesnt-collapse-cheap-kerosene-growth-does/",
-      "date": "2026-06-14"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.13698",
       "date": "2026-06-15"
     },
@@ -6871,6 +6859,94 @@
     {
       "url": "https://heatmap.news/climate-tech/tiny-nuclear-hype-cycle",
       "date": "2026-08-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11490",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11641",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11857",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11929",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12047",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12256",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11515",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11545",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11254",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12271",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27271",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11404",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.23162",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11261",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11490",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11641",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11857",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.11929",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12047",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/12/factcheck-how-nuclear-gas-wind-solar-power-are-affected-during-heatwaves/",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/12/waymo-imports-3200-zeekr-robotaxis-despite-super-high-tariffs/",
+      "date": "2026-08-13"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
+      "date": "2026-08-13"
     }
   ]
 }
