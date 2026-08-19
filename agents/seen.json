@@ -1,46 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.carbonbrief.org/experts-why-carbon-removal-needs-a-major-scale-up-to-return-warming-to-1-5c/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/19/historic-graph-solar-electricity-surpasses-coal-electricity-in-usa/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/19/byd-datang-comparison-reveals-accelerating-ev-progress/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/19/energy-access-in-rural-north-carolina-grows-through-solar/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/19/wallbox-launches-new-pulsar-pro-to-simplify-ev-charging-reimbursement/",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/spotlight/wind-trump-court-pattern-apex-edp",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://heatmap.news/daily/trump-wind-energy-prices",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/hotspots/the-renewables-battle-underway-in-arizona",
-      "date": "2026-06-20"
-    },
-    {
-      "url": "https://heatmap.news/daily/sunzia-martin-heinrich",
-      "date": "2026-06-20"
-    },
-    {
       "url": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
       "date": "2026-06-21"
     },
@@ -6607,6 +6567,90 @@
     {
       "url": "https://cleantechnica.com/2026/08/17/autonomous-electric-freight-trucks-scaling-up-in-europe/",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17019",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17235",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17287",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17782",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17986",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.21913",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13219",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.03126",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17019",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17235",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17287",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17592",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17117",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://github.com/Cambridge-Sustainable-Computing-Lab/GreenAlgorithms4HPC",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-the-two-largest-reservoirs-in-the-us-have-hit-record-low-levels",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/18/pony-ai-plans-to-deploy-1000-autonomous-heavy-trucks/",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-ernest-moniz-i-may-2013-july-2015",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://heatmap.news/energy/california-demand-response",
+      "date": "2026-08-19"
+    },
+    {
+      "url": "https://heatmap.news/am/hawaii-lala-storm",
+      "date": "2026-08-19"
     }
   ]
 }
