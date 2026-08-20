@@ -1,30 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
-      "date": "2026-06-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
-      "date": "2026-06-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
-      "date": "2026-06-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/20/as-kenyas-electric-motorcycle-ecosystem-grows-local-firms-are-starting-to-specialise-and-forge-interesting-partnerships-with-large-global-firms/",
-      "date": "2026-06-21"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/qa/mark-muro-brookings-data-centers",
-      "date": "2026-06-21"
-    },
-    {
-      "url": "https://eh2.com/careers",
-      "date": "2026-06-21"
-    },
-    {
       "url": "https://cleantechnica.com/2026/06/22/evs-at-33-7-share-in-germany-skoda-elroq-leads/",
       "date": "2026-06-22"
     },
@@ -6651,6 +6627,98 @@
     {
       "url": "https://heatmap.news/am/hawaii-lala-storm",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18314",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18318",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18494",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18510",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18844",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19008",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19163",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18657",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18314",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18318",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18494",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18510",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18844",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/19/solaranywhere-supports-solar-pv-unmanned-flight-2/",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/19/nlr-north-american-electric-reliability-corporation-launch-partnership-to-advance-north-american-grid-reliability/",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/19/translucent-solar-starts-producing-solar-panels-in-south-carolina/",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
+      "date": "2026-08-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/qcells-georgia-factory-solar-policy-whiplash",
+      "date": "2026-08-20"
     }
   ]
 }
