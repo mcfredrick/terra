@@ -1,30 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/06/22/evs-at-33-7-share-in-germany-skoda-elroq-leads/",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/21/ev-battery-solid-state-lithium-metal-quantumscape-manufacturing/",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/21/southeast-asia-has-5-proposed-subsea-power-cable-projects-by-2040-but-the-first-link-it-needs-is-governance/",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/21/boston-metal-critical-metals-green-steel-proof/",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/21/algae-biofuel-reflecting-pool-trump-showcase-experiment/",
-      "date": "2026-06-22"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/community-solar-warehouse-rooftops",
-      "date": "2026-06-22"
-    },
-    {
       "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
       "date": "2026-06-23"
     },
@@ -6719,6 +6695,102 @@
     {
       "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/qcells-georgia-factory-solar-policy-whiplash",
       "date": "2026-08-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19552",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19678",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19777",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19975",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20120",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20298",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20300",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19469",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19445",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19544",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12143",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20184",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19552",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19678",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19777",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19975",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19980",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20120",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20298",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19642",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://github.com/rany2/ha-open-meteo-solar-forecast",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+      "date": "2026-08-21"
+    },
+    {
+      "url": "https://heatmap.news/am/nvidia-openai-gas",
+      "date": "2026-08-21"
     }
   ]
 }
