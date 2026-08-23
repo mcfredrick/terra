@@ -1,182 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.carbonbrief.org/introducing-project-cosmos-carbon-briefs-universe-of-climate-science/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/22/prototyping-data-tools-with-ai-a-case-study-solar-battery-atlas/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/22/clean-break-eu-can-build-nearly-twice-as-many-wind-turbines-and-evs-as-it-needs-each-year/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/22/how-a-record-high-energy-imbalance-is-driving-global-warming/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/22/nio-factory-two-recognized-as-a-global-lighthouse-factory/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/22/lego-installing-another-large-solar-power-plant/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/23/jackery-launches-latest-versatile-homepower-batteries/",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/california-solar-ahead-of-gas",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/wind/new-ohio-bill-hamstring-wind-solar",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/clean-energy/iran-war-clean-energy",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/heat-pumps/heat-pump-home-value",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/food-and-farms/we-are-drinking-the-earth",
-      "date": "2026-06-23"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23805",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24609",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24342",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24065",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23829",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24316",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24284",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24563",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24399",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23805",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24065",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24342",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24609",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24284",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24316",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23931",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.24148",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://github.com/zae-bayern/elpv-dataset",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-scientists-2/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-institutions/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/prof-philippe-ciais-the-worlds-most-highly-cited-climate-scientist/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/prof-detlef-van-vuuren-the-climate-scientist-most-cited-by-the-ipcc/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/23/as-an-extreme-heatwave-hits-uk-homes-with-solar-panels-power-equivalent-of-5-hours-of-free-daily-air-con-use/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/23/wind-power-cargo-ships-dhl-vela-energy-diversity/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/23/electricity-breaks-fossil-fuel-chain/",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/virtual-power-plants/tesla-sunrun-renewhome-vpp",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://heatmap.news/am/walmart-nuclear-constellation",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://heatmap.news/daily/trumps-big-nuclear-play-is-here",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://heatmap.news/politics/ratepayer-protection-act-explained",
-      "date": "2026-06-24"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/candidintelligence/7fcf11ca-79c6-42b1-b28e-87a94a634762?utm_source=jobs.greentownlabs.com",
-      "date": "2026-06-24"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.25599",
       "date": "2026-06-25"
     },
@@ -6791,6 +6615,54 @@
     {
       "url": "https://heatmap.news/am/nvidia-openai-gas",
       "date": "2026-08-21"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/adaptation/trump-roadless-rule",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/energy/trump-gas-plant-permits",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bans-moratorium-legal",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/josh-shapiro-data-center-king-of-prussia",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/qa/ella-nilsen-cnn-echo-communications",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/am/ohio-data-centers",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/politics/washington-california-carbon-market",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/am/data-center-emissions",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira",
+      "date": "2026-08-23"
+    },
+    {
+      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira-transcript",
+      "date": "2026-08-23"
     }
   ]
 }
