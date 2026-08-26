@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm",
-      "date": "2026-06-27"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/green-steel/hyundai-new-steel-mill-louisiana",
-      "date": "2026-06-27"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/heat-pumps/heat-pumps-air-conditioners",
-      "date": "2026-06-27"
-    },
-    {
       "url": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
       "date": "2026-06-28"
     },
@@ -6515,6 +6503,94 @@
     {
       "url": "https://heatmap.news/adaptation/massachusetts-heat-officer",
       "date": "2026-08-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23726",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23872",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24284",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24296",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24390",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24397",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24428",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24651",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23726",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23872",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23885",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23924",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24280",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24284",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24296",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24390",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24397",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/25/nlr-nrri-partnership-advances-industry-scale-innovation-and-process-demonstration/",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/25/photovoltaic-windows-have-been-heating-water-in-a-bucharest-apartment-for-two-years/",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/25/energy-storage-is-strengthening-reliability-these-5-states-are-leading-the-charge/",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/geothermal-needs-better-tools-hephae",
+      "date": "2026-08-26"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/pacific-fusion-net-energy",
+      "date": "2026-08-26"
     }
   ]
 }
