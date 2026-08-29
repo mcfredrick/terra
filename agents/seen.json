@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.28705",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29011",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28817",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28834",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28837",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28948",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29117",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28462",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29703",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.15942",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.00719",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.22242",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28705",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29011",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28834",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28948",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.29117",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28817",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.28837",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://github.com/climlab/climlab",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/29/jackery-solarvault-3-taps-balcony-solar-potential-at-intersolar-europe/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/29/power-from-here-most-of-humanity-already-lives-where-solar-wind-are-strongest/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/29/china-electric-trucks-freight-system/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/29/stop-trying-to-make-an-ev-gas-station/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/06/29/algae-biofuel-us-experiment-trump-fai-lreflecting-pool/",
-      "date": "2026-06-30"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes",
-      "date": "2026-06-30"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.30843",
       "date": "2026-07-01"
     },
@@ -6923,6 +6815,50 @@
     {
       "url": "https://heatmap.news/am/trump-michael-dorrell",
       "date": "2026-08-28"
+    },
+    {
+      "url": "https://github.com/pvlib/pvlib-python",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/OpenFAST/openfast",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/Energinet-SimTools/MTB",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/xgcm/xgcm",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/CliMT/climt",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/ESCOMP/CESM",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/ExeClim/Isca",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://github.com/GreenScheduler/cats",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
+      "date": "2026-08-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/28/multisensor-data-fusion-optimizes-traffic-flow-intersection-safety-delivering-cost-time-savings/",
+      "date": "2026-08-29"
     }
   ]
 }
