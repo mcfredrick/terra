@@ -1,226 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.00099",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00116",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00161",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00216",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00288",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00324",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00419",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00585",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00640",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00644",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00855",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00935",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01189",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01203",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01230",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00659",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.22310",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00279",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00504",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00628",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00851",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2506.01883",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00099",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00116",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00161",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00216",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00288",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00324",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00419",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00585",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00640",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00644",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00855",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.00935",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01189",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01203",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01230",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.carbonbrief.org/analysis-uk-newspapers-have-already-printed-63-editorials-in-2026-backing-north-sea-drilling/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.carbonbrief.org/cropped-1-july-2026-heatwave-scorches-europe-uk-2050-farm-plan-whats-next-for-the-high-seas-treaty/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/nio-vs-xpeng-back-almost-even-again/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/top-selling-electric-vehicles-in-the-world-may-2026/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/xpeng-sales-rise-16-in-june/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/nio-sales-increase-63-in-june/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/xpeng-unveils-x-mind-empowering-autonomous-driving-with-a-future-foresight-brain/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/southeast-missouri-smelter-announces-intent-to-restart-this-year/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/usmca-to-move-to-automatic-annual-renewal-as-countries-face-july-1st-deadline/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/alligator-alcatraz-ends-immigration-detention-after-earthjustice-lawsuits/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/01/aviloo-launches-uk-used-ev-battery-warranty/",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-trucks-look-a-lot-more-appealing-when-gas-prices-are-sky-high",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/ohio-land-use-farm-data-seia",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://heatmap.news/daily/google-amazon-electricity-rate-freeze",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://heatmap.news/politics/new-jersey-data-center-taxes",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://heatmap.news/carbon-removal/surficial-mineralization",
-      "date": "2026-07-02"
-    },
-    {
-      "url": "https://heatmap.news/am/us-inverter-ban",
-      "date": "2026-07-02"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.01352",
       "date": "2026-07-03"
     },
@@ -6559,6 +6339,50 @@
     {
       "url": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
       "date": "2026-08-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.28056",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.28180",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.27665",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.27692",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.27519",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.27587",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/MJP-76/KirkHillWindFarm",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/green-coding-solutions/eco-ci-energy-estimation",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://github.com/dclichang2022/dsh-green-meter",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
+      "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.energy.gov/ne/timeline-rtg-and-rhu-space-missions",
+      "date": "2026-08-31"
     }
   ]
 }
