@@ -1,50 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/lynk-co-announces-leadership-changes-to-support-the-next-phase-of-its-european-growth/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/electric-buses-make-up-over-50-of-new-deliveries-in-australia/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/vatrer-lfp-battery-transforms-ez-go-golf-cart/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/byd-seal-08-ev-a-no-compromise-premium-sedan-at-a-commodity-car-price/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/gcl-plans-to-integrate-ai-data-centers-directly-with-the-grid-cleantechnica-field-trip/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/ai-theft-of-independent-journalism-is-now-common-and-you-can-do-something-about-it/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/64-ev-chargers-installed-at-boston-multifamily-complex/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/sharkfest-hammerhead-oceans-fuel-saving-aviation/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/03/waymo-uber-partnership-ends-in-phoenix-while-teens-do-idiotic-things-in-waymos/",
-      "date": "2026-07-04"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/candidintelligence/26415500-98b0-4e4b-9bc5-5b08cdf8d4be?utm_source=jobs.greentownlabs.com",
-      "date": "2026-07-04"
-    },
-    {
       "url": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
       "date": "2026-07-05"
     },
@@ -6187,6 +6143,118 @@
     {
       "url": "https://www.energy.gov/cmei/systems/solar-achievements-timeline",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00204",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00218",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00286",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00388",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00497",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00815",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00822",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00133",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00429",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00847",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01514",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00544",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.08244",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.05990",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00204",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00218",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00286",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00388",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00497",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00651",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00815",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00822",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/02/africa-solar-boom-hidden-official-statistics/",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/01/report-u-s-adds-20-gwh-of-energy-storage-capacity-in-q2-largest-quarter-on-record/",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/01/solar-storage-are-saving-schools-millions-see-how-these-6-are-using-the-extra-budget-space/",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
+      "date": "2026-09-02"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/virginia-rooftop-solar-bulk-buy-program",
+      "date": "2026-09-02"
     }
   ]
 }
