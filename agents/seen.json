@@ -1,42 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/for-the-us-auto-market-what-is-the-next-step-battery-electric-vehicles-or-hybrids/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/why-kg-motors-suspended-reservations-for-its-tiny-mibot-ev/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/heat-drought-fires-disrupt-usas-250th-anniversary-but-we-aint-seen-nothing-yet/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/the-250th-anniversary-of-the-declaration-of-independence-was-nothing-like-the-bicentennial-celebrations/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/byd-beats-tesla-again/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-works-where-shade-does-farm-work/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/balcony-solar-us-states-legislation-powerful-movement/",
-      "date": "2026-07-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-could-solve-one-of-solars-biggest-problems-in-the-philippines/",
-      "date": "2026-07-05"
-    },
-    {
       "url": "https://github.com/huggingface/tokenizers",
       "date": "2026-07-06"
     },
@@ -6255,6 +6219,106 @@
     {
       "url": "https://www.canarymedia.com/articles/solar/virginia-rooftop-solar-bulk-buy-program",
       "date": "2026-09-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01912",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01972",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02011",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02408",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02410",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02431",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01692",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02034",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02545",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02614",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01923",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02001",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01912",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01972",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02011",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02174",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02408",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02410",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02431",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://github.com/OpenSourceAWE/KiteControllers.jl",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://github.com/fvaleye/tracarbon",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/02/balcony-solar-movement-grows-us-nine-states-approve-law/",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/02/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use/",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/green-steel/hyundai-breaks-ground-louisiana-steel-mill",
+      "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/transmission/novel-power-line-3-grids",
+      "date": "2026-09-03"
     }
   ]
 }
