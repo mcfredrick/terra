@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Climate on Terra</title><link>https://mcfredrick.github.io/terra/tags/climate/</link><description>Recent content in Climate on Terra</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mcfredrick.github.io/terra/tags/climate/index.xml" rel="self" type="application/rss+xml"/><item><title>Terra Daily — September 4, 2026</title><link>https://mcfredrick.github.io/terra/posts/2026-09-04/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><guid>https://mcfredrick.github.io/terra/posts/2026-09-04/</guid><description>&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Climate on Terra</title><link>https://mcfredrick.github.io/terra/tags/climate/</link><description>Recent content in Climate on Terra</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mcfredrick.github.io/terra/tags/climate/index.xml" rel="self" type="application/rss+xml"/><item><title>Terra Daily — September 5, 2026</title><link>https://mcfredrick.github.io/terra/posts/2026-09-05/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><guid>https://mcfredrick.github.io/terra/posts/2026-09-05/</guid><description>&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://cleantechnica.com/2026/09/05/electrolyzer-learning-rates-plant-scale/" target="_blank" rel="noopener noreferrer">Hydrogen Learning Curves Are Counting The Wrong Doublings&lt;/a>
+&lt;/strong> — Analyzes how doubling-based experience curves for hydrogen electrolyzers may misrepresent plant-scale cost reductions, offering a critical perspective on techno-economic forecasting and large-scale deployment planning in hydrogen infrastructure.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technology--innovation">Technology &amp;amp; Innovation&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/" target="_blank" rel="noopener noreferrer">Donut Lab Reveals Amazing Performance Tests&lt;/a>
+&lt;/strong> — Presents performance test results for a fully solid-state battery cell in production, reporting energy density and power metrics that surpass many lithium-ion alternatives, while highlighting the remaining technical gaps versus competitors like Quantumscape in the solid-state commercialization race.&lt;/li>
+&lt;/ul>
+&lt;h2 id="open-source-projects">Open Source Projects&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/" target="_blank" rel="noopener noreferrer">Hyundai Motor Group Partners with Oman to Drive Green Mobility Transition under Oman Vision 2040&lt;/a>
+&lt;/strong> — Case study of integrating hydrogen fuel-cell city buses with 240kW ultra-fast EV charging infrastructure in Muscat, demonstrating system-level challenges and opportunities for hydrogen mobility and high-power charging deployment in emerging markets.&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/Daminoup88/WattSeal" target="_blank" rel="noopener noreferrer">Daminoup88/WattSeal&lt;/a>
+&lt;/strong> — Rust-based single-executable tool for real-time power consumption monitoring per application and component, integrating RAPL/nvml telemetry to calculate carbon footprint and electricity costs across Windows and Linux, supporting energy-aware computing and sustainability tracking.&lt;/li>
+&lt;/ul>
+&lt;h2 id="todays-synthesis">Today&amp;rsquo;s Synthesis&lt;/h2>
+&lt;p>Here&amp;rsquo;s a thinking process:&lt;/p></description></item><item><title>Terra Daily — September 4, 2026</title><link>https://mcfredrick.github.io/terra/posts/2026-09-04/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><guid>https://mcfredrick.github.io/terra/posts/2026-09-04/</guid><description>&lt;h2 id="research-worth-reading">Research Worth Reading&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;strong>&lt;a href="https://arxiv.org/abs/2604.08634" target="_blank" rel="noopener noreferrer">Resolving satellite-in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic&lt;/a>
