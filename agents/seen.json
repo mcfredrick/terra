@@ -1,214 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.02679",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02797",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02844",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02851",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02948",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03000",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03098",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03104",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03159",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03263",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03324",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03393",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03424",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03485",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03554",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02824",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03262",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05030",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05045",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.05050",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03671",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03740",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03881",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.04938",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02552",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02638",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02768",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03300",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.03304",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.04134",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.04557",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.04595",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.04987",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2412.05894",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02679",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02797",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02844",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02851",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02948",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/grenergy-launches-a-reverse-energy-auction-in-chile/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/climate-communications-from-losing-the-argument-to-winning-it/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/fixing-climate-communications/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/eu-should-open-state-aid-to-cleantech-manufacturing-to-meet-electrification-goals/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/why-soy-biofuels-must-be-considered-a-high-deforestation-risk/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/is-the-us-united-in-an-anti-ai-focus-or-enabling-it-and-all-of-its-consequences/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/hybrid-ev-abrams-m1e3-tank-us-army-drone-warfare-laser-weapons/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/06/new-us-generating-stations-for-ai-will-create-emissions-equal-to-australias/",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/energy-efficiency/trump-admin-energy-efficiency-analysis",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/hydropower/hydropower-nyc-building-decarbonization",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://heatmap.news/daily/biden-climate-law",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://heatmap.news/am/holtec-palisades-restart",
-      "date": "2026-07-07"
-    },
-    {
-      "url": "https://job-boards.eu.greenhouse.io/overstory/jobs/4908204101",
-      "date": "2026-07-07"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.05599",
       "date": "2026-07-08"
     },
@@ -6375,6 +6167,38 @@
     {
       "url": "https://heatmap.news/am/trump-data-centers-climate-superfund",
       "date": "2026-09-04"
+    },
+    {
+      "url": "https://github.com/Daminoup88/WattSeal",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/05/electrolyzer-learning-rates-plant-scale/",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/townsite-2-nevada",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/spotlight/next-data-center-moratorium-states",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://heatmap.news/am/china-oil-emissions-hyundai",
+      "date": "2026-09-05"
+    },
+    {
+      "url": "https://heatmap.news/sparks/august-2026-electricity-prices",
+      "date": "2026-09-05"
     }
   ]
 }
