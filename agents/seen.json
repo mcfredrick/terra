@@ -1,202 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.08864",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08899",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08942",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09045",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09058",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09070",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09127",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09187",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09194",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09249",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09275",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09276",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09297",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09357",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08947",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.04662",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.16238",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08849",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08920",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08790",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08803",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08902",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08781",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09039",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09137",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23964",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08864",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08899",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.08942",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09045",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09058",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09070",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09127",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09187",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09194",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09249",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.09275",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/12/teslas-profit-per-vehicle-has-been-dropping-significantly/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/12/head-of-iea-roasts-europe-for-slow-electrification/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/12/china-about-to-get-156-new-electric-vehicle-models/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/11/ford-ev-universal-electric-pickup-truck-phev-europe/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/11/two-progressive-representatives-chart-a-course-forward-for-america/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/11/energy-intelligence-platform-florion-launched-to-help-south-african-businesses-navigate-a-new-era-of-energy-risk-opportunity/",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
-      "date": "2026-07-13"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/every-electric-nyc-renters-ac-grid",
-      "date": "2026-07-13"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.09874",
       "date": "2026-07-14"
     },
@@ -5499,6 +5303,66 @@
     {
       "url": "https://heatmap.news/am/us-reservoir-sediment",
       "date": "2026-09-10"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10774",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10800",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11139",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11400",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11436",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10920",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11230",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.07763",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.08333",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10800",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11139",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11400",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11436",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/10/could-jackery-energyguard-max-lead-a-shift-to-large-capacity-home-batteries/",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/the-battery-era-is-here-and-china-is-supplying-it",
+      "date": "2026-09-11"
     }
   ]
 }
