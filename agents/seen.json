@@ -1,474 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.13221",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13249",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13387",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13447",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13513",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13537",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13626",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13709",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13744",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13766",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13797",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13889",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13914",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13970",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14023",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13064",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13526",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13844",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13607",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2501.17600",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14023",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2503.09057",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13221",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13249",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13387",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13447",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13513",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13537",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13626",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13709",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13744",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13766",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13797",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13889",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13914",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.13970",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14023",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/this-graph-shows-why-europe-india-china-should-adopt-cleantech-asap/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/zayed-sustainability-prize-closes-2027-submissions-with-strong-global-participation/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/wallbox-turning-point-energy-surpass-10000-ev-chargers-deployed-across-saudi-arabia/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/the-jackery-homepower-h1000-v2-cleantechnica-tested/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/delhi-launches-big-new-ev-policies/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/line-5-tunnel-permit-jeopardizes-safety-of-the-great-lakes/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/pjm-capacity-auction-hits-price-cap-for-third-consecutive-time/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/cadillac-optiq-may-switch-to-a-chinese-made-platform/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/how-is-tesla-offering-0-financing/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/15/geothermal-energy-deep-hot-innovation-green-investing-us/",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/energy-equity/massachusetts-zombie-wood-power-plant",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/carbon-removal/eu-emissions-trading",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/daily/data-centers-blue-states",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/politics/hochul-data-centers-renewables",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/climate/orange-sky-heat-dome",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/climate/heat-excess-deaths",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/am/pjm-capacity-auction",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e58-stardust",
-      "date": "2026-07-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14245",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14273",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14291",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14412",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14508",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14555",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14606",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14839",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14906",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.15117",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.15183",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14157",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14353",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14468",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14710",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14196",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14632",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.15011",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2504.00978",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.16574",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14163",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14404",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14995",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.03209",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.14616",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.13504",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14245",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14273",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14291",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14412",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14508",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14555",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14606",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14839",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14906",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.15117",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.15183",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14157",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14353",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.14468",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/new-partnerships-with-state-of-alaska-university-of-alaska-fairbanks-expand-on-critical-minerals-energy-innovation/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/is-a-double-shock-what-will-really-change-auto-purchasing-oil-use-again/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/from-mine-to-megawatt-how-nlr-is-securing-critical-mineral-supply-chains-for-the-power-grid/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/smart-energy-management-research-could-unlock-grid-flexibility-cost-savings/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/nlr-battery-innovation-awarded-nasas-invention-of-the-year-2/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/chinas-electric-truck-moment-has-arrived-and-its-about-to-hit-global-diesel-demand/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/data-data-everywhere-and-not-a-byte-to-think/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/16/the-all-new-vw-id-polo-now-available-with-37-kwh-battery-affordable-entry-into-electric-mobility/",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/nuclear/nuclear-energy-big-decade",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://heatmap.news/daily/heinrich-texas-power-permitting",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://heatmap.news/climate/smoke-exercise",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://heatmap.news/sparks/canada-wildfire-smoke",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://heatmap.news/am/puerto-rico-water",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/project-director-at-energy-dome-4438486280",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/commercial-and-strategy-mba-intern-co-op-at-vertical-semiconductor-4440214791",
-      "date": "2026-07-17"
-    },
-    {
-      "url": "https://solar-materials-gmbh.jobs.personio.de/job/2715388",
-      "date": "2026-07-17"
-    },
-    {
       "url": "https://github.com/hubblo-org/scaphandre",
       "date": "2026-07-19"
     },
@@ -4959,6 +4491,46 @@
     {
       "url": "https://heatmap.news/adaptation/california-wildfires-utilties",
       "date": "2026-09-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13490",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13746",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13886",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13448",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://github.com/Giorgio866/lumina-energy-card",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/14/jet-charge-helps-the-fleet-transition/",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/14/volkswagen-unveils-ridiculously-efficient-mission-efficiency-but-why/",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-industry/electrified-thermal-solutions-holcim-first-thermal-batteries",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/its-electric-new-york",
+      "date": "2026-09-15"
     }
   ]
 }
