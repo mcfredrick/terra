@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/hubblo-org/scaphandre",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=26412624",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "http://cognitivemedium.com/dac-notes",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/18/offshore-wind-china-reducing-costs-new-vessels/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/18/philippines-logistics-firm-sees-swappable-battery-scooters-as-the-next-milestone-in-last-mile-deliveries/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/18/every-day-in-every-way-attribution-science-is-getting-better-better/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https://heatmap.news/adaptation/east-coast-smoke",
-      "date": "2026-07-19"
-    },
-    {
-      "url": "https/heatmap.news/am/puerto-rico-water",
-      "date": "2026-07-19"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.15322",
       "date": "2026-07-20"
     },
@@ -4531,6 +4471,114 @@
     {
       "url": "https://heatmap.news/electric-vehicles/its-electric-new-york",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17808",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17809",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17859",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17964",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17980",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18349",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18095",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18489",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18531",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18551",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18400",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17808",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17809",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17859",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17964",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17980",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18349",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://github.com/gwittebolle/claude-carbon",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/16/good-news-bad-news-from-iaa-transportation-show-in-germany/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/16/curbside-ev-charging-new-york-city-news/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/massachusetts-increase-winter-heat-pump-rates",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/green-steel/google-backs-stegra-swedish-green-steel-project",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://heatmap.news/energy/ai-energy-managment-alliance",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://heatmap.news/daily/us-energy-data-platfom",
+      "date": "2026-09-17"
     }
   ]
 }
