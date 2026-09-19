@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.16386",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16527",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16985",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17031",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16929",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16931",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16270",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.16643",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17640",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16615",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17008",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.04371",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16386",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16527",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16615",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16703",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16902",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.16985",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17008",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.17031",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://github.com/NOAA-GFDL/FMS",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/20/asia-pacific-races-to-build-a-50b-clean-power-grid-to-feed-ai-boom/",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/20/wind-power-us-pennsylvania-exus-repowering-coal-mines/",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/balcony-solar-for-sale-us",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/inside-amazons-approach-to-data-center-sustainability-a-conversation-with-brandon-oyer",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/12-volt-batteries",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https/heatmap.news/am/eu-carbon-removal",
-      "date": "2026-07-21"
-    },
-    {
-      "url": "https://heatmap.news/energy/q2-2026-solar-wind-ppas",
-      "date": "2026-07-21"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.18500",
       "date": "2026-07-22"
     },
@@ -4567,6 +4451,34 @@
     {
       "url": "https://heatmap.news/energy/cleancounts-recs",
       "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/18/where-marine-energy-meets-hybrid-power-systems-this-laboratory-de-risks-integration/",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/18/design-the-future-of-campus-energy-in-the-energy-district-cup/",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/18/compressed-gas-storage-is-still-mostly/",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/18/jackery-solarvault-3-shows-potential-to-scale-from-balcony-to-whole-home/",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/east-hampton-new-york-battery-fire",
+      "date": "2026-09-19"
+    },
+    {
+      "url": "https://heatmap.news/energy/nuclear-cost-ap1000",
+      "date": "2026-09-19"
     }
   ]
 }
