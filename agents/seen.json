@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.20580",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21486",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20817",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21460",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20716",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21382",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20778",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21048",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21285",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2411.05264",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20676",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20580",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.21486",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20817",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.20665",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/brian-rose/ClimateLaboratoryBook",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://github.com/open-risk/awesome-sustainable-finance",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/23/ev-charging-infrastructure-partnerships-starting-to-grow-in-kenya/",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/23/xpeng-l03-impresses-in-the-details-part-2/",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/sponsored/inside-amazons-approach-to-data-center-sustainability-a-conversation-with-brandon-oyer",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/massachusetts-vehicle-to-grid",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://heatmap.news/sustainability/lime-supply-chain-emissions",
-      "date": "2026-07-24"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial-transcript",
-      "date": "2026-07-24"
-    },
-    {
       "url": "https://github.com/Boavizta/boaviztapi",
       "date": "2026-07-25"
     },
@@ -4239,6 +4143,54 @@
     {
       "url": "https://arxiv.org/abs/2609.21856",
       "date": "2026-09-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24302",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.24538",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22542",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22546",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22646",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22843",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22773",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.05527",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/con-edison-battery-developer-fight-nyc",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/ohio-biggest-solar-project-gets-permit",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
+      "date": "2026-09-22"
     }
   ]
 }
