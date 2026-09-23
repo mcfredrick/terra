@@ -1,46 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/Boavizta/boaviztapi",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://www.carbonbrief.org/factcheck-no-europes-heatwaves-are-not-being-caused-by-declining-air-pollution",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/24/volvo-electric-heavy-trucks-built-in-queensland-for-australia/",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/24/cs-powertech-launches-best-in-class-pv-hjt-solar-cell-factory/",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/24/hyundai-motor-group-launches-alldayenergy-its-global-v2x-service/",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/24/ford-partners-with-geely-to-produce-multi-energy-cars-in-valencia/",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/post-hurricane-helene-community-solar",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://heatmap.news/climate-tech/quantum-computing",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial",
-      "date": "2026-07-25"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/spotlight/townsite-solar-blm",
-      "date": "2026-07-25"
-    },
-    {
       "url": "https://cleantechnica.com/2026/07/25/flywheel-energy-storage-us-qnetic-factory-wind-solar-power/",
       "date": "2026-07-26"
     },
@@ -4191,6 +4151,122 @@
     {
       "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25329",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25437",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25566",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25594",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25759",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25878",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25920",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26339",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25505",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25512",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25533",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25706",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25953",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.11345",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25040",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25076",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25567",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.19416",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25329",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25437",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25566",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25594",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25759",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25878",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25920",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/23/byd-launches-major-44-metric-ton-electric-truck-in-iaa-transport/",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/22/electric-tugboats-battery-duty-cycle/",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://heatmap.news/ideas/ai-climate-benefits",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://heatmap.news/climate/europe-heat-paris-agreement",
+      "date": "2026-09-23"
     }
   ]
 }
