@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/07/25/flywheel-energy-storage-us-qnetic-factory-wind-solar-power/",
-      "date": "2026-07-26"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/25/loganair-agrees-to-buy-five-beta-technologies-short-range-electric-aircraft/",
-      "date": "2026-07-26"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/25/coal-replaced-solar-batteries-clean-energy-transmission/",
-      "date": "2026-07-26"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.21902",
       "date": "2026-07-27"
     },
@@ -4267,6 +4255,50 @@
     {
       "url": "https://heatmap.news/climate/europe-heat-paris-agreement",
       "date": "2026-09-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27050",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27066",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27223",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27698",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.27759",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/23/zet-scale-orders-2500-battery-electric-class-8-trucks-most-of-them-from-tesla/",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electrification/new-induction-stove-clean-cooking",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/ev-climate-benefits",
+      "date": "2026-09-24"
     }
   ]
 }
