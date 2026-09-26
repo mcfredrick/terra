@@ -1,114 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.22871",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23176",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23536",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23546",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24310",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.10120",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23313",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23426",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22970",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23627",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.22518",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23653",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.22871",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23176",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23536",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.23546",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24378",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24121",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.16648",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24111",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/27/affordable-homes-cooling-centers-and-a-faster-grid-yes-please/",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/27/ameren-missouri-bets-big-on-expensive-new-gas/",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/27/2027-byd-seal-06-gets-lidar-byd-da-han-gets-1008-km-range/",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/27/drone-warfare-laser-weapon-wireless-power-transfer-boeing/",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electric-vehicles/solar-powered-ev-carshare-massachusetts",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://heatmap.news/adaptation/simplicity-axonis-ai-floods",
-      "date": "2026-07-28"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.25037",
       "date": "2026-07-29"
     },
@@ -4283,6 +4175,82 @@
     {
       "url": "https://www.canarymedia.com/articles/offshore-wind/new-york-california-fight-trump-offshore-wind-deals",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://github.com/mtrossbach/noah-mqtt",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=18181503",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=32324592",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=21024358",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=20015037",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=26301765",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=31921132",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=28601257",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=33999229",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=27335359",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12906627",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=38144602",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=1676550",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=14232198",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259437",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=24552022",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=37480043",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.carbonbrief.org/ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050",
+      "date": "2026-09-26"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/arevia-idaho-solar-data-center",
+      "date": "2026-09-26"
     }
   ]
 }
