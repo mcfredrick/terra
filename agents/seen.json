@@ -1,118 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.27575",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28270",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28280",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28093",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28220",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28356",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28468",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27567",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2311.18124",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.19938",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.10311",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27584",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27575",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28270",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28280",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27849",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27908",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28123",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.27371",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.com/ebranlard/welib",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://github.com/wlcrs/huawei_solar",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/30/europes-waste-creates-value-elsewhere/",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/30/new-sierra-club-reports-finds-wisconsins-dirty-power-generation-uses-1-34-trillion-gallons-of-water-annually/",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/30/chinas-15th-five-year-plan-for-solar-wind-is-huge/",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/07/30/hyundai-steels-potential-economic-costs-mercury-pollution-drinking-water-threats-must-be-fully-evaluated-under-louisiana-public-trust-doctrine/",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/california-solar-power-record-may",
-      "date": "2026-07-31"
-    },
-    {
-      "url": "https://heatmap.news/sustainability/ghg-protocol-iso-update-scope-2",
-      "date": "2026-07-31"
-    },
-    {
       "url": "https://github.com/ebranlard/pyDatView",
       "date": "2026-08-01"
     },
@@ -4207,6 +4095,38 @@
     {
       "url": "https://heatmap.news/daily/ai-climate-tech",
       "date": "2026-09-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/29/vla-2-0-vs-fsd-in-amsterdam-part-2-tesla-model-3/",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/28/are-electric-trucks-cheaper-to-operate-than-diesel/",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/09/28/solarlap-around-australia-on-green-power/",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/global-first-next-gen-geothermal-fervo",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.energy.gov/srs/savannah-river-site-history-1990-present",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.energy.gov/srs/savannah-river-site-history-1950-1989",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://heatmap.news/energy/sustainable-ai-model-dashboard",
+      "date": "2026-09-29"
     }
   ]
 }
