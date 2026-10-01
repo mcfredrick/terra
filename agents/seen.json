@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
-      "date": "2026-08-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
-      "date": "2026-08-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/01/zambias-government-delivers-on-its-promise-to-ramp-up-electricity-generation-capacity-with-solar-playing-a-key-role/",
-      "date": "2026-08-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
-      "date": "2026-08-02"
-    },
-    {
-      "url": "https://heatmap.news/daily/rivian-second-quarter-deliveries",
-      "date": "2026-08-02"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.28764",
       "date": "2026-08-03"
     },
@@ -4207,6 +4187,106 @@
     {
       "url": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
       "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38435",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39396",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39737",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.40140",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.40133",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.13189",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38763",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39379",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38247",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38474",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38522",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38280",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38435",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38474",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38522",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39396",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39398",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.39703",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://github.com/wlcrs/huawei_solar",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://github.com/ebranlard/pyDatView",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://github.com/ebranlard/welib",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://github.com/Boavizta/boaviztapi",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/north-carolina-food-bank-microgrid",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/food-and-farms/startup-helps-food-carts-switch-to-batteries",
+      "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/nuclear/wholesale-revision-us-nuclear-rules",
+      "date": "2026-10-01"
     }
   ]
 }
