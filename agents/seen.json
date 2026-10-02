@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.28764",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28822",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28833",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28962",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29643",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29261",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29276",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28790",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29371",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.29572",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28926",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28764",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28822",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28833",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28962",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/03/europe-paying-twice-700-bar-hydrogen-refuelling/",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/02/ev-battery-swapping-us-fuel-saving-diesel-startup-revoy/",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/food-and-farms/virginia-solar-with-farming",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/qa/peter-gardett-noreva-gas-data-centers",
-      "date": "2026-08-03"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-hyperion-xai-colossus-congress-oversight",
-      "date": "2026-08-03"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.00213",
       "date": "2026-08-04"
     },
@@ -4287,6 +4207,86 @@
     {
       "url": "https://www.canarymedia.com/articles/nuclear/wholesale-revision-us-nuclear-rules",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00034",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00043",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00219",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00356",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00605",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00782",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00792",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00975",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01835",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.02069",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01677",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00034",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00043",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00219",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00356",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00605",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/01/texas-puc-greenlights-coal-plant-closure-renewables-construction-saving-millions-of-gallons-of-water-every-year/",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://heatmap.news/energy/controlled-thermal-resources-stellantis",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/novele-series-a",
+      "date": "2026-10-02"
     }
   ]
 }
