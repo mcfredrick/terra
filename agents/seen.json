@@ -1,118 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.02813",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02976",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02978",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03149",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03226",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03641",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03989",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02789",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03241",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03959",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03037",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03175",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02813",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02976",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02978",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03149",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03226",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03641",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03989",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02789",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.03364",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/04/the-fast-lane-3-ways-geothermal-companies-can-get-more-heat/",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/04/energy-discovery-awaits-within-the-spin-of-atoms/",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/illinois-solar-for-all",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-      "date": "2026-08-05"
-    },
-    {
-      "url": "https://heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
-      "date": "2026-08-05"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.04189",
       "date": "2026-08-06"
     },
@@ -4163,6 +4051,18 @@
     {
       "url": "https://www.canarymedia.com/articles/clean-fleets/diesel-prices-electric-truck-sales",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/03/hyflux-superconducting-motor-hydrogen-aviation/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://heatmap.news/amazon-constellation-calvert",
+      "date": "2026-10-04"
     }
   ]
 }
