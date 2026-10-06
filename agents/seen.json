@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.06074",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06341",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06349",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05636",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.04023",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05305",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05387",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05452",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2210.10858",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06074",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06341",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06349",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2210.10858",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.06360",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://github.com/ReikanYsora/Helios",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://github.com/ffunes/Omnibattery",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/06/china-unveils-safety-standards-for-autonomous-driving-systems/",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/sponsored/the-missing-link-to-vpp-success-customer-knowledge",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/ford-fathom",
-      "date": "2026-08-07"
-    },
-    {
-      "url": "https/heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
-      "date": "2026-08-07"
-    },
-    {
       "url": "https://cleantechnica.com/2026/08/08/supercritical-co2-carbon-capture-power-cycles/",
       "date": "2026-08-08"
     },
@@ -4087,6 +4003,14 @@
     {
       "url": "https://heatmap.news/daily/data-center-permitting-deal",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/energy-efficiency/hidden-device-free-up-gigawatts-grid",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
+      "date": "2026-10-06"
     }
   ]
 }
