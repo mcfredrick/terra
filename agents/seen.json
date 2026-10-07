@@ -1,38 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/08/08/supercritical-co2-carbon-capture-power-cycles/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/08/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-1-asia/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electric-vehicles/can-fords-new-electric-truck-hit-the-sweet-spot",
-      "date": "2026-08-08"
-    },
-    {
-      "url": "https://heatmap.news/energy/amazon-gw-ranch",
-      "date": "2026-08-08"
-    },
-    {
       "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
       "date": "2026-08-09"
     },
@@ -4011,6 +3979,38 @@
     {
       "url": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
       "date": "2026-10-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08750",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.26070",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.06859",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07571",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07841",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07919",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://github.com/wildmountainfarms/solarthing",
+      "date": "2026-10-07"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+      "date": "2026-10-07"
     }
   ]
 }
