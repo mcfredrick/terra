@@ -1,98 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.12609",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12638",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12730",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12916",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13472",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13535",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12520",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12711",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12685",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12988",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13494",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.23347",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12439",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12609",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12638",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12730",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12916",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12711",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=39179935",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/13/waymo-partners-with-las-vegas-raiders-allegiant-stadium/",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/13/back-up-your-refrigerator-and-cut-electricity-costs-with-bluetti-fridgepower/",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
-      "date": "2026-08-14"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/wind/huge-new-turbines-uk-wind-farm",
-      "date": "2026-08-14"
-    },
-    {
       "url": "https://cleantechnica.com/2026/08/15/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-2-europe/",
       "date": "2026-08-16"
     },
@@ -3731,6 +3639,54 @@
     {
       "url": "https://www.canarymedia.com/articles/transmission/california-amps-grid-upgrades",
       "date": "2026-10-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/12/pebble-upgrades-the-2027-flow-turning-it-into-a-microgrid-to-power-your-adventures-your-home/",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/qcells-aims-to-build-worlds-first-big-factory-for-next-gen-tandem-solar",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/am/totalenergies-solar",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/daily/math-problems-openai",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/climate/california-el-nino",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/am/isaias-simon-rachel",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/politics/jared-huffman-baaja",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/qa/wilderness-society-data-centers",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/michigan-data-centers-midterms",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-permitting",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/electricity-prices-ev-charging",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://heatmap.news/politics/oklahoma-insurance-commissioner",
+      "date": "2026-10-13"
     }
   ]
 }
