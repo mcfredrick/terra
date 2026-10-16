@@ -1,62 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.13823",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14167",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14244",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14254",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.09868",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13823",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14167",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14244",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13878",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.13651",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://github.com/NatLabRockies/WAVES",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/16/forefront-power-completes-its-first-erthos-solar-energy-system-for-the-city-of-fresno/",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/16/scrapping-working-gas-car-for-ev-can-be-greener/",
-      "date": "2026-08-17"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/geothermal/boston-sea-river-source-heat-pumps",
-      "date": "2026-08-17"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.15076",
       "date": "2026-08-18"
     },
@@ -3807,6 +3751,70 @@
     {
       "url": "https://heatmap.news/climate-tech/permitting-bill-marine-power",
       "date": "2026-10-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20777",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20787",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20950",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.21790",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=39179935",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/15/pjm-ercot-and-swpp-all-set-peak-load-records-this-summer/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/15/farming-nitrogen-technology-stack/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/podcast/shift-key-156-peter-erickson",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/podcast/shift-key-156-peter-erickson-transcript",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/am/houthis-aramco-attack",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/energy/price-hub-sept-update",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/daily/trump-october-surprise-energy-policy",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/am/revolution-wind-revisited",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/daily/trump-permitting-deal-offshore-wind",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://heatmap.news/politics/permitting-bill-nepa",
+      "date": "2026-10-16"
     }
   ]
 }
