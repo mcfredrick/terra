@@ -1,90 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.15076",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15122",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15977",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16001",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14955",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16449",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14645",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14935",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.14928",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.23043",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15076",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15122",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15977",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.16001",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15361",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15375",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.15920",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/18/europe-banks-hydrogen-niche-bankability/",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/17/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements/",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/17/scottishpower-renewables-masdar-mark-major-engineering-milestone-at-east-anglia-three-windfarm/",
-      "date": "2026-08-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/17/autonomous-electric-freight-trucks-scaling-up-in-europe/",
-      "date": "2026-08-18"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.17019",
       "date": "2026-08-19"
     },
@@ -3815,6 +3731,114 @@
     {
       "url": "https://heatmap.news/politics/permitting-bill-nepa",
       "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/openpvtools/openpvtools",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://github.com/wimb0/home-assistant-saj-r5-modbus",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://github.com/pogopaule/awesome-sustainability-jobs",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/cop17-which-countries-have-released-new-pledges-to-tackle-nature-loss",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://interactive.carbonbrief.org/nature-targets-2030-progress/",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/16/china-electric-shipping-freight-infrastructure/",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electric-vehicles/us-ev-sales-rebound",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/hydrogen/whats-up-with-pennsylvanias-hydrogen-hubs",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/how-one-chicago-program-is-diversifying-the-solar-workforce",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/how-to-counter-californians-grid-battery-fears-with-safety-facts",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/politics/solar-industry-spends-to-flip-control-of-georgia-utility-commission",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/spotlight/project-jupiter-permitting",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/hotspots/the-trump-administration-is-still-messing-with-offshore-wind-farms",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://heatmap.news/politics/2026-midterm-races-to-watch",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://heatmap.news/plus/the-fight/qa/harmol-samra-host-digital",
+      "date": "2026-10-17"
+    },
+    {
+      "url": "https://heatmap.news/am/amazon-fires-election",
+      "date": "2026-10-17"
     }
   ]
 }
