@@ -1,102 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.19552",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19678",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19777",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19975",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20120",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20298",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20300",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19469",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19445",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19544",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12143",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20184",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19552",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19678",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19777",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19975",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19980",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20120",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.20298",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19642",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://github.com/rany2/ha-open-meteo-solar-forecast",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
-      "date": "2026-08-21"
-    },
-    {
-      "url": "https://heatmap.news/am/nvidia-openai-gas",
-      "date": "2026-08-21"
-    },
-    {
       "url": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
       "date": "2026-08-23"
     },
@@ -3747,6 +3651,34 @@
     {
       "url": "https://cleantechnica.com/2026/10/19/verdox-carbon-capture-aluminum-economics/",
       "date": "2026-10-19"
+    },
+    {
+      "url": "https://github.com/mohammadrezwankhan/zephyrtrade",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/19/ultium-cells-to-bring-lmr-prismatic-battery-cell-production-to-tennessee-for-future-gm-evs/",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/19/from-mine-to-magnet-to-motor-how-gm-is-building-critical-supply-chains-for-the-long-term/",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/offshore-wind/floating-turbine-global-collaboration-research",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-aluminum/how-to-recover-more-scrap-metal-us",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/endurance-energy-subsea-geothermal",
+      "date": "2026-10-20"
     }
   ]
 }
