@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/adaptation/trump-roadless-rule",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/energy/trump-gas-plant-permits",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bans-moratorium-legal",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/hotspots/josh-shapiro-data-center-king-of-prussia",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/qa/ella-nilsen-cnn-echo-communications",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/am/ohio-data-centers",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/politics/washington-california-carbon-market",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/am/data-center-emissions",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira",
-      "date": "2026-08-23"
-    },
-    {
-      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira-transcript",
-      "date": "2026-08-23"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.21858",
       "date": "2026-08-25"
     },
@@ -3775,6 +3727,130 @@
     {
       "url": "https://www.canarymedia.com/articles/geothermal/new-york-first-utility-scale-thermal-network",
       "date": "2026-10-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28804",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28841",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29872",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28904",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29213",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29306",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29423",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.05570",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.16714",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29344",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28804",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28807",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28841",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.28923",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29187",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29559",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29588",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29656",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.29872",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/NLRWindSystems/WOMBAT",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/22/solar-power-reduces-electricity-costs-texas-california/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/21/not-the-future-its-now-deepway-electric-semi-put-to-work-in-australia/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/21/gas-utilities-future-beyond-gas-network/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/virtual-power-plants/google-plans-big-virtual-power-plant-in-energy-strapped-pjm-grid",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-rick-perry-january-2017-december-2019",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-bill-richardson-1998-2001",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-federico-pena-march-1997-june-1998",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-hazel-r-oleary-administration-january-1993-january-1997",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-ernest-moniz-ii-august-2015-january-2017",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.energy.gov/em/secretary-ernest-moniz-i-may-2013-july-2015",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/google-virtual-power-plant-voltus",
+      "date": "2026-10-22"
     }
   ]
 }
