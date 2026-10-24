@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.21858",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21984",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22226",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22391",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22416",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22440",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22466",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22480",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21549",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21812",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22153",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22454",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.23197",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21998",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.10916",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21734",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.22200",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/24/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-3-africa/",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/24/massachusetts-is-taking-steps-to-lower-energy-costs-lets-get-the-details-right/",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/arizona-grid-battery-growth",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/energy-markets/pjm-greenlit-new-clean-power",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://heatmap.news/daily/data-centers-solar-batteries",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/europe-rental-ev",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://heatmap.news/am/trump-colorado-river",
-      "date": "2026-08-25"
-    },
-    {
-      "url": "https://heatmap.news/adaptation/massachusetts-heat-officer",
-      "date": "2026-08-25"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.23726",
       "date": "2026-08-26"
     },
@@ -3947,6 +3847,14 @@
     {
       "url": "https://heatmap.news/energy/fervo-short-seller-report",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/23/ev-battery-mystery-donut-labs-performance-extreme-cold/",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/23/florida-farmers-are-making-the-move-to-regenerative-agriculture/",
+      "date": "2026-10-24"
     }
   ]
 }
