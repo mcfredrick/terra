@@ -1,50 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/pvlib/pvlib-python",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/OpenFAST/openfast",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/Energinet-SimTools/MTB",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/xgcm/xgcm",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/CliMT/climt",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/ESCOMP/CESM",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/ExeClim/Isca",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://github.com/GreenScheduler/cats",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
-      "date": "2026-08-29"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/28/multisensor-data-fusion-optimizes-traffic-flow-intersection-safety-delivering-cost-time-savings/",
-      "date": "2026-08-29"
-    },
-    {
       "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
       "date": "2026-08-30"
     },
@@ -3495,6 +3451,134 @@
     {
       "url": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
       "date": "2026-10-27"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36236",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36252",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36357",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36378",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36426",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36441",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36474",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36555",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36678",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36871",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36186",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36297",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36301",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36810",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36944",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.37325",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36888",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.05797",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36236",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36252",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36357",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36426",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36555",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36678",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36871",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.37478",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/27/central-heat-pump-water-heaters-are-on-the-up-up/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/27/ford-fathom-evs-bidirectional-charging-us-market/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/27/worlds-largest-electric-ferry-enters-service-in-buenos-aires/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/more-heat-pumps-good-for-grid",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://heatmap.news/electric-vehicles/ford-fathom-bidirectional-charging",
+      "date": "2026-10-28"
     }
   ]
 }
