@@ -1,22 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
-      "date": "2026-08-30"
-    },
-    {
-      "url": "https://github.com/mlco2/codecarbon",
-      "date": "2026-08-30"
-    },
-    {
-      "url": "https://github.com/green-coding-solutions/green-metrics-tool",
-      "date": "2026-08-30"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
-      "date": "2026-08-30"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.28056",
       "date": "2026-08-31"
     },
@@ -3579,6 +3563,46 @@
     {
       "url": "https://heatmap.news/electric-vehicles/ford-fathom-bidirectional-charging",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/pvlib/pvlib-python",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://github.com/OpenFAST/openfast",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://github.com/Energinet-SimTools/MTB",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/29/scaling-european-battery-recycling-via-the-circular-economy-act/",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/28/waymo-for-business-ramp/",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/transmission/pjm-desperately-needs-grid-batteries-is-it-finally-about-to-act",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-industry/zoos-brews-michigan-decarbonization",
+      "date": "2026-10-29"
+    },
+    {
+      "url": "https://heatmap.news/energy/china-electrolyzer-industry",
+      "date": "2026-10-29"
     }
   ]
 }
