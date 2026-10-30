@@ -1,50 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.28056",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.28180",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27665",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27692",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27519",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27587",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/MJP-76/KirkHillWindFarm",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/green-coding-solutions/eco-ci-energy-estimation",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://github.com/dclichang2022/dsh-green-meter",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
-      "date": "2026-08-31"
-    },
-    {
-      "url": "https://www.energy.gov/ne/timeline-rtg-and-rhu-space-missions",
-      "date": "2026-08-31"
-    },
-    {
       "url": "https://arxiv.org/abs/2608.29129",
       "date": "2026-09-01"
     },
@@ -3603,6 +3559,34 @@
     {
       "url": "https://heatmap.news/energy/china-electrolyzer-industry",
       "date": "2026-10-29"
+    },
+    {
+      "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/mlco2/codecarbon",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/green-coding-solutions/green-metrics-tool",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/29/ford-fathom-bidirectional-ev-charging-utilites/",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+      "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
+      "date": "2026-10-30"
     }
   ]
 }
