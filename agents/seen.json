@@ -1,58 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2608.29129",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.29272",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.29359",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.29474",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.29518",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.29532",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.30610",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.30795",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.30205",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/31/from-tony-stark-to-obi-wan-kenobi-meet-4-of-7-west-gate-fellows-and-their-technologies/",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/08/31/most-eu-ships-are-being-scrapped-in-south-asia-despite-sufficient-domestic-recycling-capacity-confirms-new-study/",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
-      "date": "2026-09-01"
-    },
-    {
-      "url": "https://www.energy.gov/cmei/systems/solar-achievements-timeline",
-      "date": "2026-09-01"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.00204",
       "date": "2026-09-02"
     },
@@ -3587,6 +3535,38 @@
     {
       "url": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/green-coding-solutions/eco-ci-energy-estimation",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/31/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires-expose-the-experience-gap/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/30/electric-hydrofoils-harbour-economics/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://heatmap.news/energy/general-matter-nrc-approval",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://heatmap.news/am/ge-vernova-trench",
+      "date": "2026-10-31"
     }
   ]
 }
