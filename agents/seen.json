@@ -1,118 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.00204",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00218",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00286",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00388",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00497",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00815",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00822",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00133",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00429",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00847",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.01514",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00544",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.08244",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05990",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00204",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00218",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00286",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00388",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00497",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00651",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00815",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00822",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/02/africa-solar-boom-hidden-official-statistics/",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/01/report-u-s-adds-20-gwh-of-energy-storage-capacity-in-q2-largest-quarter-on-record/",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/01/solar-storage-are-saving-schools-millions-see-how-these-6-are-using-the-extra-budget-space/",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
-      "date": "2026-09-02"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/virginia-rooftop-solar-bulk-buy-program",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.01912",
       "date": "2026-09-03"
     },
@@ -3567,6 +3455,26 @@
     {
       "url": "https://heatmap.news/am/ge-vernova-trench",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://github.com/MJP-76/KirkHillWindFarm",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/10/31/antwerp-electric-mobile-harbour-cranes/",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.energy.gov/cmei/systems/solar-achievements-timeline",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.energy.gov/ne/timeline-rtg-and-rhu-space-missions",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://heatmap.news/am/data-center-emissions-2678167004",
+      "date": "2026-11-01"
     }
   ]
 }
