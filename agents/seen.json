@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.04398",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04487",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04544",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05087",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05156",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05029",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05054",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05176",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05332",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://www.carbonbrief.org/how-this-summers-heat-and-drought-impacted-crops-in-europe-in-six-charts",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/06/freight-rail-electrification-study-wrong-question/",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://cleantechnica.com/2026/09/08/xpeng-iron-autonomously-walks-off-production-line/",
       "date": "2026-09-08"
     },
@@ -3559,6 +3511,118 @@
     {
       "url": "https://heatmap.news/politics/democrats-retake-the-house",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07276",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07412",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07688",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07734",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07094",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07969",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07699",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28356",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07276",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07412",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07688",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07734",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08215",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/Daminoup88/WattSeal",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/05/how-can-europe-accelerate-electric-trucking/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/05/thermal-dawn-thermal-storage-is-cheap-storage/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/05/hyundai-motor-group-outlines-future-mobility-technology-roadmap-at-fisita-world-mobility-summit-2026/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/05/electric-bus-contract-depot-access-second-operator/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/us-domestic-solar-supply-chain",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/utilities/pge-2b-cut-in-grid-investments",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-wind-fully-operational",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/am/canada-shell-oil",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/ideas/states-democrats-energy-policy",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/politics/arizona-acc-midterms",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/daily/the-anti-utility-election",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/politics/hinojsas-win-data-centers",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/politics/invest-in-tomorrow-coalition-2028",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://heatmap.news/am/democrats-blue-tsunami",
+      "date": "2026-11-06"
     }
   ]
 }
