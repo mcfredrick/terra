@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://cleantechnica.com/2026/09/08/xpeng-iron-autonomously-walks-off-production-line/",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/07/xpeng-brings-physical-ai-to-ifa-berlin/",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/07/icct-claims-ev-operating-costs-%e2%85%93-lower-in-europe/",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/07/fuel-cell-trucks-toyota-germany-green-hydrogen-ammonia-europe-us/",
-      "date": "2026-09-08"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
-      "date": "2026-09-08"
-    },
-    {
       "url": "https://github.com/TypQxQ/Sigenergy-Local-Modbus",
       "date": "2026-09-09"
     },
@@ -3623,6 +3603,18 @@
     {
       "url": "https://heatmap.news/am/democrats-blue-tsunami",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/06/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/",
+      "date": "2026-11-07"
     }
   ]
 }
