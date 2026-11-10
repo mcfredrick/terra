@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.10774",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10800",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11139",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11400",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11436",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10920",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11230",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.07763",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.08333",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10800",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11139",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11400",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11436",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/10/could-jackery-energyguard-max-lead-a-shift-to-large-capacity-home-batteries/",
-      "date": "2026-09-11"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/the-battery-era-is-here-and-china-is-supplying-it",
-      "date": "2026-09-11"
-    },
-    {
       "url": "https://github.com/pkuehnel/TeslaSolarCharger",
       "date": "2026-09-12"
     },
@@ -3683,6 +3623,30 @@
     {
       "url": "https://heatmap.news/plus/the-fight/spotlight/was-this-really-the-data-center-election",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/NatLabRockies/sup3r",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2018/04/23/business/energy-environment/big-windmills.html",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/geoengineering-summit",
+      "date": "2026-11-10"
     }
   ]
 }
