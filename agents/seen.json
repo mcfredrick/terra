@@ -1,22 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.gatesnotes.com/Energy/Clean-Hydrogen",
-      "date": "2026-09-13"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
-      "date": "2026-09-13"
-    },
-    {
-      "url": "https://heatmap.news/am/google-nuclear-fortum",
-      "date": "2026-09-13"
-    },
-    {
-      "url": "https://heatmap.news/adaptation/california-wildfires-utilties",
-      "date": "2026-09-13"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.13490",
       "date": "2026-09-15"
     },
@@ -3711,6 +3695,46 @@
     {
       "url": "https://heatmap.news/am/canada-smr",
       "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/pkuehnel/TeslaSolarCharger",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/CharlesGillanders/homeassistant-alphaESS",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/open-risk/awesome-sustainable-finance",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/GreenScheduler/cats",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/11/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-an-engineering-puzzle/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/11/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/lunar-ev-charging",
+      "date": "2026-11-12"
     }
   ]
 }
