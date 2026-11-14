@@ -1,46 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.13490",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13746",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13886",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13448",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://github.com/Giorgio866/lumina-energy-card",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/14/jet-charge-helps-the-fleet-transition/",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/14/volkswagen-unveils-ridiculously-efficient-mission-efficiency-but-why/",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/clean-industry/electrified-thermal-solutions-holcim-first-thermal-batteries",
-      "date": "2026-09-15"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/its-electric-new-york",
-      "date": "2026-09-15"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.17808",
       "date": "2026-09-17"
     },
@@ -3759,6 +3719,18 @@
     {
       "url": "https://heatmap.news/energy/x-energy-singapore",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/13/zoox-expands-robotaxi-service-in-las-vegas/",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/13/comparative-cost-analysis-for-residential-curbside-organics-collection-programs/",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/13/hydropower-generation-in-the-southwest-fell-to-record-lows-this-summer/",
+      "date": "2026-11-14"
     }
   ]
 }
