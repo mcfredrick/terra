@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.19342",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19360",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19804",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19435",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.07203",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19342",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19360",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19804",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/XavB64/lowtrip",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://github.com/JGCRI/hector",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://evanm.website/2020/02/five-years-in-energy/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.orbuch.com/carbon-removal/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://oliviercorradi.com/blog/lessons-learned-climate-tech/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=26412624",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cicero.oslo.no/no/posts/nyheter/carbon-capture-and-storage-is-necessary-to-keep-global-warming-below-2c",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "http://cognitivemedium.com/dac-notes",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/17/pacwave-opens-a-giant-leap-for-marine-energy/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/17/nlr-campus-to-host-us-department-of-energy-geothermal-center-of-excellence/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/17/refueleus-first-year-shows-the-mandate-works/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/17/farm-electrification-starts-with-the-work/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/17/stellantis-bow-takes-autonomous-delivery-to-the-next-level/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://heatmap.news/climate-tech/inertia-fusion-energy-gain",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://heatmap.news/energy/cleancounts-recs",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta",
       "date": "2026-09-19"
     },
@@ -3775,6 +3659,26 @@
     {
       "url": "https://heatmap.news/am/lake-mead-fermi-amazon",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/gwittebolle/claude-carbon",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/17/the-bluetti-apex-200-expandable-portable-power-station-cleantechnica-tested/",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/17/new-sierra-club-report-shows-data-centers-potential-to-erase-15-years-of-climate-progress/",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/south-heat-pumps-reliable-grid",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/heat-pumps/new-england-heat-pump-program-thriving",
+      "date": "2026-11-17"
     }
   ]
 }
