@@ -1,42 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.20943",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.20946",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21170",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21230",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21262",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21313",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21435",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21500",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21856",
-      "date": "2026-09-21"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.24302",
       "date": "2026-09-22"
     },
@@ -3935,6 +3899,94 @@
     {
       "url": "https://heatmap.news/energy/project-omega-nrc",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25176",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25223",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25307",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.04293",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25209",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19008",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.19978",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21521",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.06509",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25176",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25223",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.25307",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.04293",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/19/agco-celebrates-construction-milestone-at-olmedo-solar-project-in-spain/",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/20/the-metals-company-has-a-seabed-mining-production-gap-that-its-pilot-has-not-closed/",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/19/pacific-power-begins-new-customer-protections-against-data-centers/",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/another-banner-year-us-energy-storage-installations",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://heatmap.news/daily/iea-meet-gta",
+      "date": "2026-11-20"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/meta-stegra-sublime-fortera",
+      "date": "2026-11-20"
     }
   ]
 }
