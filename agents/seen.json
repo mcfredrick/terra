@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.24302",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.24538",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22542",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22546",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22646",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22843",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22773",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2308.05527",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/con-edison-battery-developer-fight-nyc",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/solar/ohio-biggest-solar-project-gets-permit",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
-      "date": "2026-09-22"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.25329",
       "date": "2026-09-23"
     },
@@ -3987,6 +3939,14 @@
     {
       "url": "https://heatmap.news/climate-tech/meta-stegra-sublime-fortera",
       "date": "2026-11-20"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+      "date": "2026-11-21"
     }
   ]
 }
