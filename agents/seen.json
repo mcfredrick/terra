@@ -1,50 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.27050",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27066",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27223",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27698",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27759",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/23/zet-scale-orders-2500-battery-electric-class-8-trucks-most-of-them-from-tesla/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electrification/new-induction-stove-clean-cooking",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://heatmap.news/electric-vehicles/ev-climate-benefits",
-      "date": "2026-09-24"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.28698",
       "date": "2026-09-25"
     },
@@ -3843,6 +3799,90 @@
     {
       "url": "https://heatmap.news/plus/the-fight/hotspots/the-deadly-shipwreck-threatening-offshore-wind",
       "date": "2026-11-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27013",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.26827",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27169",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27576",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.26845",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.26908",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.23627",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24399",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27091",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.26827",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27013",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27169",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27576",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.27091",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.orbuch.com/carbon-removal/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/23/adani-cement-to-deploy-410-electric-trucks-cement-clinker/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/23/barcelona-is-suffering-from-the-hydrogen-transport-death-spiral/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/23/pondering-the-potential-of-plug-in-vpp/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
+      "date": "2026-11-23"
     }
   ]
 }
