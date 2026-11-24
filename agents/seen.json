@@ -1,98 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.28698",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28785",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28830",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29290",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29313",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29315",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28601",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28749",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29027",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.14009",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.09211",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28698",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28785",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28830",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29290",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29313",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.29315",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28734",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28823",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/24/taiga-launches-os-5-software-bringing-industry-first-geofencing-its-electric-fleet/",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
-      "date": "2026-09-25"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/offshore-wind/new-york-california-fight-trump-offshore-wind-deals",
-      "date": "2026-09-25"
-    },
-    {
       "url": "https://github.com/mtrossbach/noah-mqtt",
       "date": "2026-09-26"
     },
@@ -3883,6 +3791,14 @@
     {
       "url": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/24/autonomou-electric-railcars-federal-grant-us-energy-policy/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
+      "date": "2026-11-24"
     }
   ]
 }
