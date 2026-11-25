@@ -1,82 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://github.com/mtrossbach/noah-mqtt",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=18181503",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=32324592",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=21024358",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=20015037",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=26301765",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=31921132",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=28601257",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=33999229",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=27335359",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12906627",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=38144602",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=1676550",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=14232198",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=13259437",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=24552022",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=37480043",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.carbonbrief.org/ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://heatmap.news/plus/the-fight/hotspots/arevia-idaho-solar-data-center",
-      "date": "2026-09-26"
-    },
-    {
       "url": "https://www.ycombinator.com/blog/rfs-climatetech",
       "date": "2026-09-27"
     },
@@ -3799,6 +3723,30 @@
     {
       "url": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/25/inland-shipping-hvo-prices-battery-swapping/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/24/the-true-cost-of-in-port-emissions/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://heatmap.news/podcast/load-bearing-chris-crosby-compass-datacenters",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://heatmap.news/climate-tech/space-data-centers",
+      "date": "2026-11-25"
     }
   ]
 }
