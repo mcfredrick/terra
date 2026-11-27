@@ -1,106 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.30602",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30606",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30847",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30859",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31017",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31100",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30420",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30485",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30589",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30688",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31271",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30746",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.19384",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30602",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30606",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30859",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31017",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31100",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/28/leipzig-hydrogen-garbage-trucks-availability/",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/28/electric-trucks-cheaper-to-operate-than-diesel-for-almost-half-of-trucks-sold-in-eu-new-analysis/",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/27/community-solar-power-plants-tight-spaces-high-density/",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://cleantechnica.com/2026/09/27/used-evs-more-reliable-high-mileage-new-study-uk-data/",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.canarymedia.com/articles/sea-transport/massachusetts-startup-solar-boat",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://heatmap.news/energy/solar-repowering-study",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://heatmap.news/daily/ai-climate-tech",
-      "date": "2026-09-28"
-    },
-    {
       "url": "https://cleantechnica.com/2026/09/29/vla-2-0-vs-fsd-in-amsterdam-part-2-tesla-model-3/",
       "date": "2026-09-29"
     },
@@ -3799,6 +3699,18 @@
     {
       "url": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/27/perovskite-solar-quantum-dots-lettuce-water-conservation-ubiqd/",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+      "date": "2026-11-27"
+    },
+    {
+      "url": "https://heatmap.news/am/nvidia-drc-cobalt",
+      "date": "2026-11-27"
     }
   ]
 }
